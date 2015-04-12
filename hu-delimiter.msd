@@ -1,927 +1,927 @@
-Nc-sn;Noun Type=common Number=singular Case=nominative
-Nc-sn-----s;Noun Type=common Number=singular Case=nominative Owned_Number=singular
-Nc-sn-----p;Noun Type=common Number=singular Case=nominative Owned_Number=plural
-Nc-sn---s1;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=first
-Nc-sn---s1s;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sn---s1p;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sn---s2;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=second
-Nc-sn---s2s;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sn---s2p;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sn---s3;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=third
-Nc-sn---s3s;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sn---s3p;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sn---p1;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=first
-Nc-sn---p1s;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sn---p1p;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sn---p2;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=second
-Nc-sn---p2s;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sn---p2p;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sn---p3;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=third
-Nc-sn---p3s;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sn---p3p;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sg;Noun Type=common Number=singular Case=genitive
-Nc-sg-----s;Noun Type=common Number=singular Case=genitive Owned_Number=singular
-Nc-sg-----p;Noun Type=common Number=singular Case=genitive Owned_Number=plural
-Nc-sg---s1;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=first
-Nc-sg---s1s;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sg---s1p;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sg---s2;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=second
-Nc-sg---s2s;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sg---s2p;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sg---s3;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=third
-Nc-sg---s3s;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sg---s3p;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sg---p1;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=first
-Nc-sg---p1s;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sg---p1p;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sg---p2;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=second
-Nc-sg---p2s;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sg---p2p;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sg---p3;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=third
-Nc-sg---p3s;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sg---p3p;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sd;Noun Type=common Number=singular Case=dative
-Nc-sd-----s;Noun Type=common Number=singular Case=dative Owned_Number=singular
-Nc-sd-----p;Noun Type=common Number=singular Case=dative Owned_Number=plural
-Nc-sd---s1;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=first
-Nc-sd---s1s;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sd---s1p;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sd---s2;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=second
-Nc-sd---s2s;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sd---s2p;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sd---s3;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=third
-Nc-sd---s3s;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sd---s3p;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sd---p1;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=first
-Nc-sd---p1s;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sd---p1p;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sd---p2;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=second
-Nc-sd---p2s;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sd---p2p;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sd---p3;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=third
-Nc-sd---p3s;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sd---p3p;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sa;Noun Type=common Number=singular Case=accusative
-Nc-sa-----s;Noun Type=common Number=singular Case=accusative Owned_Number=singular
-Nc-sa-----p;Noun Type=common Number=singular Case=accusative Owned_Number=plural
-Nc-sa---s1;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=first
-Nc-sa---s1s;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sa---s1p;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sa---s2;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=second
-Nc-sa---s2s;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sa---s2p;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sa---s3;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=third
-Nc-sa---s3s;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sa---s3p;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sa---p1;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=first
-Nc-sa---p1s;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sa---p1p;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sa---p2;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=second
-Nc-sa---p2s;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sa---p2p;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sa---p3;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=third
-Nc-sa---p3s;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sa---p3p;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-si;Noun Type=common Number=singular Case=instrumental
-Nc-si-----s;Noun Type=common Number=singular Case=instrumental Owned_Number=singular
-Nc-si-----p;Noun Type=common Number=singular Case=instrumental Owned_Number=plural
-Nc-si---s1;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=first
-Nc-si---s1s;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-si---s1p;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-si---s2;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=second
-Nc-si---s2s;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-si---s2p;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-si---s3;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=third
-Nc-si---s3s;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-si---s3p;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-si---p1;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=first
-Nc-si---p1s;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-si---p1p;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-si---p2;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=second
-Nc-si---p2s;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-si---p2p;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-si---p3;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=third
-Nc-si---p3s;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-si---p3p;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sx;Noun Type=common Number=singular Case=illative
-Nc-sx-----s;Noun Type=common Number=singular Case=illative Owned_Number=singular
-Nc-sx-----p;Noun Type=common Number=singular Case=illative Owned_Number=plural
-Nc-sx---s1;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=first
-Nc-sx---s1s;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sx---s1p;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sx---s2;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=second
-Nc-sx---s2s;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sx---s2p;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sx---s3;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=third
-Nc-sx---s3s;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sx---s3p;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sx---p1;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=first
-Nc-sx---p1s;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sx---p1p;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sx---p2;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=second
-Nc-sx---p2s;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sx---p2p;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sx---p3;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=third
-Nc-sx---p3s;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sx---p3p;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-s2;Noun Type=common Number=singular Case=inessive
-Nc-s2-----s;Noun Type=common Number=singular Case=inessive Owned_Number=singular
-Nc-s2-----p;Noun Type=common Number=singular Case=inessive Owned_Number=plural
-Nc-s2---s1;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=first
-Nc-s2---s1s;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-s2---s1p;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-s2---s2;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=second
-Nc-s2---s2s;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-s2---s2p;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-s2---s3;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=third
-Nc-s2---s3s;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-s2---s3p;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-s2---p1;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=first
-Nc-s2---p1s;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-s2---p1p;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-s2---p2;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=second
-Nc-s2---p2s;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-s2---p2p;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-s2---p3;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=third
-Nc-s2---p3s;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-s2---p3p;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-se;Noun Type=common Number=singular Case=elative
-Nc-se-----s;Noun Type=common Number=singular Case=elative Owned_Number=singular
-Nc-se-----p;Noun Type=common Number=singular Case=elative Owned_Number=plural
-Nc-se---s1;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=first
-Nc-se---s1s;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-se---s1p;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-se---s2;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=second
-Nc-se---s2s;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-se---s2p;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-se---s3;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=third
-Nc-se---s3s;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-se---s3p;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-se---p1;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=first
-Nc-se---p1s;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-se---p1p;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-se---p2;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=second
-Nc-se---p2s;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-se---p2p;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-se---p3;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=third
-Nc-se---p3s;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-se---p3p;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-st;Noun Type=common Number=singular Case=allative
-Nc-st-----s;Noun Type=common Number=singular Case=allative Owned_Number=singular
-Nc-st-----p;Noun Type=common Number=singular Case=allative Owned_Number=plural
-Nc-st---s1;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=first
-Nc-st---s1s;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-st---s1p;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-st---s2;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=second
-Nc-st---s2s;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-st---s2p;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-st---s3;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=third
-Nc-st---s3s;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-st---s3p;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-st---p1;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=first
-Nc-st---p1s;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-st---p1p;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-st---p2;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=second
-Nc-st---p2s;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-st---p2p;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-st---p3;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=third
-Nc-st---p3s;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-st---p3p;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-s3;Noun Type=common Number=singular Case=adessive
-Nc-s3-----s;Noun Type=common Number=singular Case=adessive Owned_Number=singular
-Nc-s3-----p;Noun Type=common Number=singular Case=adessive Owned_Number=plural
-Nc-s3---s1;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=first
-Nc-s3---s1s;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-s3---s1p;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-s3---s2;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=second
-Nc-s3---s2s;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-s3---s2p;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-s3---s3;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=third
-Nc-s3---s3s;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-s3---s3p;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-s3---p1;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=first
-Nc-s3---p1s;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-s3---p1p;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-s3---p2;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=second
-Nc-s3---p2s;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-s3---p2p;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-s3---p3;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=third
-Nc-s3---p3s;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-s3---p3p;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sb;Noun Type=common Number=singular Case=ablative
-Nc-sb-----s;Noun Type=common Number=singular Case=ablative Owned_Number=singular
-Nc-sb-----p;Noun Type=common Number=singular Case=ablative Owned_Number=plural
-Nc-sb---s1;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=first
-Nc-sb---s1s;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sb---s1p;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sb---s2;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=second
-Nc-sb---s2s;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sb---s2p;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sb---s3;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=third
-Nc-sb---s3s;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sb---s3p;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sb---p1;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=first
-Nc-sb---p1s;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sb---p1p;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sb---p2;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=second
-Nc-sb---p2s;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sb---p2p;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sb---p3;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=third
-Nc-sb---p3s;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sb---p3p;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-s9;Noun Type=common Number=singular Case=terminative
-Nc-s9-----s;Noun Type=common Number=singular Case=terminative Owned_Number=singular
-Nc-s9-----p;Noun Type=common Number=singular Case=terminative Owned_Number=plural
-Nc-s9---s1;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=first
-Nc-s9---s1s;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-s9---s1p;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-s9---s2;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=second
-Nc-s9---s2s;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-s9---s2p;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-s9---s3;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=third
-Nc-s9---s3s;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-s9---s3p;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-s9---p1;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=first
-Nc-s9---p1s;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-s9---p1p;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-s9---p2;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=second
-Nc-s9---p2s;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-s9---p2p;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-s9---p3;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=third
-Nc-s9---p3s;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-s9---p3p;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sw;Noun Type=common Number=singular Case=essive
-Nc-sw-----s;Noun Type=common Number=singular Case=essive Owned_Number=singular
-Nc-sw-----p;Noun Type=common Number=singular Case=essive Owned_Number=plural
-Nc-sw---s1;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=first
-Nc-sw---s1s;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sw---s1p;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sw---s2;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=second
-Nc-sw---s2s;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sw---s2p;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sw---s3;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=third
-Nc-sw---s3s;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sw---s3p;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sw---p1;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=first
-Nc-sw---p1s;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sw---p1p;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sw---p2;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=second
-Nc-sw---p2s;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sw---p2p;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sw---p3;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=third
-Nc-sw---p3s;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sw---p3p;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sm;Noun Type=common Number=singular Case=temporalis
-Nc-sm-----s;Noun Type=common Number=singular Case=temporalis Owned_Number=singular
-Nc-sm-----p;Noun Type=common Number=singular Case=temporalis Owned_Number=plural
-Nc-sm---s1;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=first
-Nc-sm---s1s;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sm---s1p;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sm---s2;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=second
-Nc-sm---s2s;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sm---s2p;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sm---s3;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=third
-Nc-sm---s3s;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sm---s3p;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sm---p1;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=first
-Nc-sm---p1s;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sm---p1p;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sm---p2;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=second
-Nc-sm---p2s;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sm---p2p;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sm---p3;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=third
-Nc-sm---p3s;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sm---p3p;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sc;Noun Type=common Number=singular Case=causalis
-Nc-sc-----s;Noun Type=common Number=singular Case=causalis Owned_Number=singular
-Nc-sc-----p;Noun Type=common Number=singular Case=causalis Owned_Number=plural
-Nc-sc---s1;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=first
-Nc-sc---s1s;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sc---s1p;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sc---s2;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=second
-Nc-sc---s2s;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sc---s2p;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sc---s3;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=third
-Nc-sc---s3s;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sc---s3p;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sc---p1;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=first
-Nc-sc---p1s;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sc---p1p;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sc---p2;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=second
-Nc-sc---p2s;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sc---p2p;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sc---p3;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=third
-Nc-sc---p3s;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sc---p3p;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-ss;Noun Type=common Number=singular Case=sublative
-Nc-ss-----s;Noun Type=common Number=singular Case=sublative Owned_Number=singular
-Nc-ss-----p;Noun Type=common Number=singular Case=sublative Owned_Number=plural
-Nc-ss---s1;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=first
-Nc-ss---s1s;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-ss---s1p;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-ss---s2;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=second
-Nc-ss---s2s;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-ss---s2p;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-ss---s3;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=third
-Nc-ss---s3s;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-ss---s3p;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-ss---p1;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=first
-Nc-ss---p1s;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-ss---p1p;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-ss---p2;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=second
-Nc-ss---p2s;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-ss---p2p;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-ss---p3;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=third
-Nc-ss---p3s;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-ss---p3p;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sh;Noun Type=common Number=singular Case=delative
-Nc-sh-----s;Noun Type=common Number=singular Case=delative Owned_Number=singular
-Nc-sh-----p;Noun Type=common Number=singular Case=delative Owned_Number=plural
-Nc-sh---s1;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=first
-Nc-sh---s1s;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sh---s1p;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sh---s2;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=second
-Nc-sh---s2s;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sh---s2p;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sh---s3;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=third
-Nc-sh---s3s;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sh---s3p;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sh---p1;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=first
-Nc-sh---p1s;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sh---p1p;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sh---p2;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=second
-Nc-sh---p2s;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sh---p2p;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sh---p3;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=third
-Nc-sh---p3s;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sh---p3p;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sq;Noun Type=common Number=singular Case=sociative
-Nc-sq-----s;Noun Type=common Number=singular Case=sociative Owned_Number=singular
-Nc-sq-----p;Noun Type=common Number=singular Case=sociative Owned_Number=plural
-Nc-sq---s1;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=first
-Nc-sq---s1s;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sq---s1p;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sq---s2;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=second
-Nc-sq---s2s;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sq---s2p;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sq---s3;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=third
-Nc-sq---s3s;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sq---s3p;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sq---p1;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=first
-Nc-sq---p1s;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sq---p1p;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sq---p2;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=second
-Nc-sq---p2s;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sq---p2p;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sq---p3;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=third
-Nc-sq---p3s;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sq---p3p;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sy;Noun Type=common Number=singular Case=factive
-Nc-sy-----s;Noun Type=common Number=singular Case=factive Owned_Number=singular
-Nc-sy-----p;Noun Type=common Number=singular Case=factive Owned_Number=plural
-Nc-sy---s1;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=first
-Nc-sy---s1s;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sy---s1p;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sy---s2;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=second
-Nc-sy---s2s;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sy---s2p;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sy---s3;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=third
-Nc-sy---s3s;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sy---s3p;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sy---p1;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=first
-Nc-sy---p1s;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sy---p1p;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sy---p2;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=second
-Nc-sy---p2s;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sy---p2p;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sy---p3;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=third
-Nc-sy---p3s;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sy---p3p;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sp;Noun Type=common Number=singular Case=superessive
-Nc-sp-----s;Noun Type=common Number=singular Case=superessive Owned_Number=singular
-Nc-sp-----p;Noun Type=common Number=singular Case=superessive Owned_Number=plural
-Nc-sp---s1;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=first
-Nc-sp---s1s;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sp---s1p;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sp---s2;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=second
-Nc-sp---s2s;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sp---s2p;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sp---s3;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=third
-Nc-sp---s3s;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sp---s3p;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sp---p1;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=first
-Nc-sp---p1s;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sp---p1p;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sp---p2;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=second
-Nc-sp---p2s;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sp---p2p;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sp---p3;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=third
-Nc-sp---p3s;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sp---p3p;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-su;Noun Type=common Number=singular Case=distributive
-Nc-su-----s;Noun Type=common Number=singular Case=distributive Owned_Number=singular
-Nc-su-----p;Noun Type=common Number=singular Case=distributive Owned_Number=plural
-Nc-su---s1;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=first
-Nc-su---s1s;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-su---s1p;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-su---s2;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=second
-Nc-su---s2s;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-su---s2p;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-su---s3;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=third
-Nc-su---s3s;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-su---s3p;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-su---p1;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=first
-Nc-su---p1s;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-su---p1p;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-su---p2;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=second
-Nc-su---p2s;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-su---p2p;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-su---p3;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=third
-Nc-su---p3s;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-su---p3p;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-sf;Noun Type=common Number=singular Case=essive-formal
-Nc-sf-----s;Noun Type=common Number=singular Case=essive-formal Owned_Number=singular
-Nc-sf-----p;Noun Type=common Number=singular Case=essive-formal Owned_Number=plural
-Nc-sf---s1;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=first
-Nc-sf---s1s;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-sf---s1p;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-sf---s2;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=second
-Nc-sf---s2s;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-sf---s2p;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-sf---s3;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=third
-Nc-sf---s3s;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-sf---s3p;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-sf---p1;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=first
-Nc-sf---p1s;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-sf---p1p;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-sf---p2;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=second
-Nc-sf---p2s;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-sf---p2p;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-sf---p3;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=third
-Nc-sf---p3s;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-sf---p3p;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pn;Noun Type=common Number=plural Case=nominative
-Nc-pn-----s;Noun Type=common Number=plural Case=nominative Owned_Number=singular
-Nc-pn-----p;Noun Type=common Number=plural Case=nominative Owned_Number=plural
-Nc-pn---s1;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=first
-Nc-pn---s1s;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pn---s1p;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pn---s2;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=second
-Nc-pn---s2s;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pn---s2p;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pn---s3;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=third
-Nc-pn---s3s;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pn---s3p;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pn---p1;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=first
-Nc-pn---p1s;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pn---p1p;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pn---p2;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=second
-Nc-pn---p2s;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pn---p2p;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pn---p3;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=third
-Nc-pn---p3s;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pn---p3p;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pg;Noun Type=common Number=plural Case=genitive
-Nc-pg-----s;Noun Type=common Number=plural Case=genitive Owned_Number=singular
-Nc-pg-----p;Noun Type=common Number=plural Case=genitive Owned_Number=plural
-Nc-pg---s1;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=first
-Nc-pg---s1s;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pg---s1p;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pg---s2;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=second
-Nc-pg---s2s;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pg---s2p;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pg---s3;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=third
-Nc-pg---s3s;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pg---s3p;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pg---p1;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=first
-Nc-pg---p1s;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pg---p1p;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pg---p2;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=second
-Nc-pg---p2s;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pg---p2p;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pg---p3;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=third
-Nc-pg---p3s;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pg---p3p;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pd;Noun Type=common Number=plural Case=dative
-Nc-pd-----s;Noun Type=common Number=plural Case=dative Owned_Number=singular
-Nc-pd-----p;Noun Type=common Number=plural Case=dative Owned_Number=plural
-Nc-pd---s1;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=first
-Nc-pd---s1s;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pd---s1p;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pd---s2;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=second
-Nc-pd---s2s;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pd---s2p;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pd---s3;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=third
-Nc-pd---s3s;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pd---s3p;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pd---p1;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=first
-Nc-pd---p1s;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pd---p1p;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pd---p2;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=second
-Nc-pd---p2s;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pd---p2p;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pd---p3;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=third
-Nc-pd---p3s;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pd---p3p;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pa;Noun Type=common Number=plural Case=accusative
-Nc-pa-----s;Noun Type=common Number=plural Case=accusative Owned_Number=singular
-Nc-pa-----p;Noun Type=common Number=plural Case=accusative Owned_Number=plural
-Nc-pa---s1;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=first
-Nc-pa---s1s;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pa---s1p;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pa---s2;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=second
-Nc-pa---s2s;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pa---s2p;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pa---s3;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=third
-Nc-pa---s3s;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pa---s3p;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pa---p1;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=first
-Nc-pa---p1s;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pa---p1p;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pa---p2;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=second
-Nc-pa---p2s;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pa---p2p;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pa---p3;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=third
-Nc-pa---p3s;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pa---p3p;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pi;Noun Type=common Number=plural Case=instrumental
-Nc-pi-----s;Noun Type=common Number=plural Case=instrumental Owned_Number=singular
-Nc-pi-----p;Noun Type=common Number=plural Case=instrumental Owned_Number=plural
-Nc-pi---s1;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=first
-Nc-pi---s1s;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pi---s1p;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pi---s2;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=second
-Nc-pi---s2s;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pi---s2p;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pi---s3;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=third
-Nc-pi---s3s;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pi---s3p;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pi---p1;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=first
-Nc-pi---p1s;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pi---p1p;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pi---p2;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=second
-Nc-pi---p2s;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pi---p2p;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pi---p3;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=third
-Nc-pi---p3s;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pi---p3p;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-px;Noun Type=common Number=plural Case=illative
-Nc-px-----s;Noun Type=common Number=plural Case=illative Owned_Number=singular
-Nc-px-----p;Noun Type=common Number=plural Case=illative Owned_Number=plural
-Nc-px---s1;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=first
-Nc-px---s1s;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-px---s1p;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-px---s2;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=second
-Nc-px---s2s;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-px---s2p;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-px---s3;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=third
-Nc-px---s3s;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-px---s3p;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-px---p1;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=first
-Nc-px---p1s;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-px---p1p;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-px---p2;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=second
-Nc-px---p2s;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-px---p2p;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-px---p3;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=third
-Nc-px---p3s;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-px---p3p;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-p2;Noun Type=common Number=plural Case=inessive
-Nc-p2-----s;Noun Type=common Number=plural Case=inessive Owned_Number=singular
-Nc-p2-----p;Noun Type=common Number=plural Case=inessive Owned_Number=plural
-Nc-p2---s1;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=first
-Nc-p2---s1s;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-p2---s1p;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-p2---s2;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=second
-Nc-p2---s2s;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-p2---s2p;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-p2---s3;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=third
-Nc-p2---s3s;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-p2---s3p;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-p2---p1;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=first
-Nc-p2---p1s;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-p2---p1p;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-p2---p2;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=second
-Nc-p2---p2s;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-p2---p2p;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-p2---p3;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=third
-Nc-p2---p3s;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-p2---p3p;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pe;Noun Type=common Number=plural Case=elative
-Nc-pe-----s;Noun Type=common Number=plural Case=elative Owned_Number=singular
-Nc-pe-----p;Noun Type=common Number=plural Case=elative Owned_Number=plural
-Nc-pe---s1;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=first
-Nc-pe---s1s;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pe---s1p;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pe---s2;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=second
-Nc-pe---s2s;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pe---s2p;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pe---s3;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=third
-Nc-pe---s3s;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pe---s3p;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pe---p1;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=first
-Nc-pe---p1s;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pe---p1p;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pe---p2;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=second
-Nc-pe---p2s;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pe---p2p;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pe---p3;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=third
-Nc-pe---p3s;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pe---p3p;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pt;Noun Type=common Number=plural Case=allative
-Nc-pt-----s;Noun Type=common Number=plural Case=allative Owned_Number=singular
-Nc-pt-----p;Noun Type=common Number=plural Case=allative Owned_Number=plural
-Nc-pt---s1;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=first
-Nc-pt---s1s;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pt---s1p;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pt---s2;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=second
-Nc-pt---s2s;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pt---s2p;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pt---s3;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=third
-Nc-pt---s3s;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pt---s3p;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pt---p1;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=first
-Nc-pt---p1s;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pt---p1p;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pt---p2;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=second
-Nc-pt---p2s;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pt---p2p;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pt---p3;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=third
-Nc-pt---p3s;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pt---p3p;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-p3;Noun Type=common Number=plural Case=adessive
-Nc-p3-----s;Noun Type=common Number=plural Case=adessive Owned_Number=singular
-Nc-p3-----p;Noun Type=common Number=plural Case=adessive Owned_Number=plural
-Nc-p3---s1;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=first
-Nc-p3---s1s;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-p3---s1p;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-p3---s2;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=second
-Nc-p3---s2s;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-p3---s2p;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-p3---s3;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=third
-Nc-p3---s3s;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-p3---s3p;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-p3---p1;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=first
-Nc-p3---p1s;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-p3---p1p;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-p3---p2;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=second
-Nc-p3---p2s;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-p3---p2p;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-p3---p3;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=third
-Nc-p3---p3s;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-p3---p3p;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pb;Noun Type=common Number=plural Case=ablative
-Nc-pb-----s;Noun Type=common Number=plural Case=ablative Owned_Number=singular
-Nc-pb-----p;Noun Type=common Number=plural Case=ablative Owned_Number=plural
-Nc-pb---s1;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=first
-Nc-pb---s1s;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pb---s1p;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pb---s2;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=second
-Nc-pb---s2s;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pb---s2p;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pb---s3;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=third
-Nc-pb---s3s;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pb---s3p;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pb---p1;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=first
-Nc-pb---p1s;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pb---p1p;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pb---p2;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=second
-Nc-pb---p2s;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pb---p2p;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pb---p3;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=third
-Nc-pb---p3s;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pb---p3p;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-p9;Noun Type=common Number=plural Case=terminative
-Nc-p9-----s;Noun Type=common Number=plural Case=terminative Owned_Number=singular
-Nc-p9-----p;Noun Type=common Number=plural Case=terminative Owned_Number=plural
-Nc-p9---s1;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=first
-Nc-p9---s1s;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-p9---s1p;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-p9---s2;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=second
-Nc-p9---s2s;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-p9---s2p;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-p9---s3;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=third
-Nc-p9---s3s;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-p9---s3p;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-p9---p1;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=first
-Nc-p9---p1s;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-p9---p1p;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-p9---p2;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=second
-Nc-p9---p2s;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-p9---p2p;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-p9---p3;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=third
-Nc-p9---p3s;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-p9---p3p;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pw;Noun Type=common Number=plural Case=essive
-Nc-pw-----s;Noun Type=common Number=plural Case=essive Owned_Number=singular
-Nc-pw-----p;Noun Type=common Number=plural Case=essive Owned_Number=plural
-Nc-pw---s1;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=first
-Nc-pw---s1s;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pw---s1p;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pw---s2;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=second
-Nc-pw---s2s;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pw---s2p;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pw---s3;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=third
-Nc-pw---s3s;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pw---s3p;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pw---p1;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=first
-Nc-pw---p1s;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pw---p1p;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pw---p2;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=second
-Nc-pw---p2s;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pw---p2p;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pw---p3;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=third
-Nc-pw---p3s;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pw---p3p;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pm;Noun Type=common Number=plural Case=temporalis
-Nc-pm-----s;Noun Type=common Number=plural Case=temporalis Owned_Number=singular
-Nc-pm-----p;Noun Type=common Number=plural Case=temporalis Owned_Number=plural
-Nc-pm---s1;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=first
-Nc-pm---s1s;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pm---s1p;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pm---s2;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=second
-Nc-pm---s2s;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pm---s2p;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pm---s3;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=third
-Nc-pm---s3s;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pm---s3p;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pm---p1;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=first
-Nc-pm---p1s;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pm---p1p;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pm---p2;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=second
-Nc-pm---p2s;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pm---p2p;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pm---p3;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=third
-Nc-pm---p3s;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pm---p3p;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pc;Noun Type=common Number=plural Case=causalis
-Nc-pc-----s;Noun Type=common Number=plural Case=causalis Owned_Number=singular
-Nc-pc-----p;Noun Type=common Number=plural Case=causalis Owned_Number=plural
-Nc-pc---s1;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=first
-Nc-pc---s1s;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pc---s1p;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pc---s2;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=second
-Nc-pc---s2s;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pc---s2p;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pc---s3;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=third
-Nc-pc---s3s;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pc---s3p;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pc---p1;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=first
-Nc-pc---p1s;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pc---p1p;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pc---p2;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=second
-Nc-pc---p2s;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pc---p2p;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pc---p3;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=third
-Nc-pc---p3s;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pc---p3p;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-ps;Noun Type=common Number=plural Case=sublative
-Nc-ps-----s;Noun Type=common Number=plural Case=sublative Owned_Number=singular
-Nc-ps-----p;Noun Type=common Number=plural Case=sublative Owned_Number=plural
-Nc-ps---s1;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=first
-Nc-ps---s1s;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-ps---s1p;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-ps---s2;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=second
-Nc-ps---s2s;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-ps---s2p;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-ps---s3;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=third
-Nc-ps---s3s;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-ps---s3p;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-ps---p1;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=first
-Nc-ps---p1s;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-ps---p1p;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-ps---p2;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=second
-Nc-ps---p2s;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-ps---p2p;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-ps---p3;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=third
-Nc-ps---p3s;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-ps---p3p;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-ph;Noun Type=common Number=plural Case=delative
-Nc-ph-----s;Noun Type=common Number=plural Case=delative Owned_Number=singular
-Nc-ph-----p;Noun Type=common Number=plural Case=delative Owned_Number=plural
-Nc-ph---s1;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=first
-Nc-ph---s1s;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-ph---s1p;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-ph---s2;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=second
-Nc-ph---s2s;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-ph---s2p;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-ph---s3;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=third
-Nc-ph---s3s;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-ph---s3p;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-ph---p1;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=first
-Nc-ph---p1s;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-ph---p1p;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-ph---p2;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=second
-Nc-ph---p2s;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-ph---p2p;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-ph---p3;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=third
-Nc-ph---p3s;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-ph---p3p;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pq;Noun Type=common Number=plural Case=sociative
-Nc-pq-----s;Noun Type=common Number=plural Case=sociative Owned_Number=singular
-Nc-pq-----p;Noun Type=common Number=plural Case=sociative Owned_Number=plural
-Nc-pq---s1;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=first
-Nc-pq---s1s;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pq---s1p;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pq---s2;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=second
-Nc-pq---s2s;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pq---s2p;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pq---s3;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=third
-Nc-pq---s3s;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pq---s3p;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pq---p1;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=first
-Nc-pq---p1s;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pq---p1p;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pq---p2;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=second
-Nc-pq---p2s;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pq---p2p;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pq---p3;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=third
-Nc-pq---p3s;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pq---p3p;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-py;Noun Type=common Number=plural Case=factive
-Nc-py-----s;Noun Type=common Number=plural Case=factive Owned_Number=singular
-Nc-py-----p;Noun Type=common Number=plural Case=factive Owned_Number=plural
-Nc-py---s1;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=first
-Nc-py---s1s;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-py---s1p;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-py---s2;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=second
-Nc-py---s2s;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-py---s2p;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-py---s3;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=third
-Nc-py---s3s;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-py---s3p;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-py---p1;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=first
-Nc-py---p1s;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-py---p1p;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-py---p2;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=second
-Nc-py---p2s;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-py---p2p;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-py---p3;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=third
-Nc-py---p3s;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-py---p3p;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pp;Noun Type=common Number=plural Case=superessive
-Nc-pp-----s;Noun Type=common Number=plural Case=superessive Owned_Number=singular
-Nc-pp-----p;Noun Type=common Number=plural Case=superessive Owned_Number=plural
-Nc-pp---s1;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=first
-Nc-pp---s1s;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pp---s1p;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pp---s2;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=second
-Nc-pp---s2s;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pp---s2p;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pp---s3;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=third
-Nc-pp---s3s;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pp---s3p;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pp---p1;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=first
-Nc-pp---p1s;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pp---p1p;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pp---p2;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=second
-Nc-pp---p2s;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pp---p2p;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pp---p3;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=third
-Nc-pp---p3s;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pp---p3p;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pu;Noun Type=common Number=plural Case=distributive
-Nc-pu-----s;Noun Type=common Number=plural Case=distributive Owned_Number=singular
-Nc-pu-----p;Noun Type=common Number=plural Case=distributive Owned_Number=plural
-Nc-pu---s1;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=first
-Nc-pu---s1s;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pu---s1p;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pu---s2;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=second
-Nc-pu---s2s;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pu---s2p;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pu---s3;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=third
-Nc-pu---s3s;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pu---s3p;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pu---p1;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=first
-Nc-pu---p1s;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pu---p1p;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pu---p2;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=second
-Nc-pu---p2s;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pu---p2p;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pu---p3;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=third
-Nc-pu---p3s;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pu---p3p;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=third Owned_Number=plural
-Nc-pf;Noun Type=common Number=plural Case=essive-formal
-Nc-pf-----s;Noun Type=common Number=plural Case=essive-formal Owned_Number=singular
-Nc-pf-----p;Noun Type=common Number=plural Case=essive-formal Owned_Number=plural
-Nc-pf---s1;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=first
-Nc-pf---s1s;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=first Owned_Number=singular
-Nc-pf---s1p;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=first Owned_Number=plural
-Nc-pf---s2;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=second
-Nc-pf---s2s;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=second Owned_Number=singular
-Nc-pf---s2p;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=second Owned_Number=plural
-Nc-pf---s3;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=third
-Nc-pf---s3s;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=third Owned_Number=singular
-Nc-pf---s3p;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=third Owned_Number=plural
-Nc-pf---p1;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=first
-Nc-pf---p1s;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=first Owned_Number=singular
-Nc-pf---p1p;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=first Owned_Number=plural
-Nc-pf---p2;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=second
-Nc-pf---p2s;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=second Owned_Number=singular
-Nc-pf---p2p;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=second Owned_Number=plural
-Nc-pf---p3;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=third
-Nc-pf---p3s;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=third Owned_Number=singular
-Nc-pf---p3p;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sn;Noun Type=common Number=singular Case=nominative
+Nn-sn-----s;Noun Type=common Number=singular Case=nominative Owned_Number=singular
+Nn-sn-----p;Noun Type=common Number=singular Case=nominative Owned_Number=plural
+Nn-sn---s1;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=first
+Nn-sn---s1s;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sn---s1p;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sn---s2;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=second
+Nn-sn---s2s;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sn---s2p;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sn---s3;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=third
+Nn-sn---s3s;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sn---s3p;Noun Type=common Number=singular Case=nominative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sn---p1;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=first
+Nn-sn---p1s;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sn---p1p;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sn---p2;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=second
+Nn-sn---p2s;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sn---p2p;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sn---p3;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=third
+Nn-sn---p3s;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sn---p3p;Noun Type=common Number=singular Case=nominative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sg;Noun Type=common Number=singular Case=genitive
+Nn-sg-----s;Noun Type=common Number=singular Case=genitive Owned_Number=singular
+Nn-sg-----p;Noun Type=common Number=singular Case=genitive Owned_Number=plural
+Nn-sg---s1;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=first
+Nn-sg---s1s;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sg---s1p;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sg---s2;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=second
+Nn-sg---s2s;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sg---s2p;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sg---s3;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=third
+Nn-sg---s3s;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sg---s3p;Noun Type=common Number=singular Case=genitive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sg---p1;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=first
+Nn-sg---p1s;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sg---p1p;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sg---p2;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=second
+Nn-sg---p2s;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sg---p2p;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sg---p3;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=third
+Nn-sg---p3s;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sg---p3p;Noun Type=common Number=singular Case=genitive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sd;Noun Type=common Number=singular Case=dative
+Nn-sd-----s;Noun Type=common Number=singular Case=dative Owned_Number=singular
+Nn-sd-----p;Noun Type=common Number=singular Case=dative Owned_Number=plural
+Nn-sd---s1;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=first
+Nn-sd---s1s;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sd---s1p;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sd---s2;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=second
+Nn-sd---s2s;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sd---s2p;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sd---s3;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=third
+Nn-sd---s3s;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sd---s3p;Noun Type=common Number=singular Case=dative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sd---p1;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=first
+Nn-sd---p1s;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sd---p1p;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sd---p2;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=second
+Nn-sd---p2s;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sd---p2p;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sd---p3;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=third
+Nn-sd---p3s;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sd---p3p;Noun Type=common Number=singular Case=dative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sa;Noun Type=common Number=singular Case=accusative
+Nn-sa-----s;Noun Type=common Number=singular Case=accusative Owned_Number=singular
+Nn-sa-----p;Noun Type=common Number=singular Case=accusative Owned_Number=plural
+Nn-sa---s1;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=first
+Nn-sa---s1s;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sa---s1p;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sa---s2;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=second
+Nn-sa---s2s;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sa---s2p;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sa---s3;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=third
+Nn-sa---s3s;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sa---s3p;Noun Type=common Number=singular Case=accusative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sa---p1;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=first
+Nn-sa---p1s;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sa---p1p;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sa---p2;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=second
+Nn-sa---p2s;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sa---p2p;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sa---p3;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=third
+Nn-sa---p3s;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sa---p3p;Noun Type=common Number=singular Case=accusative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-si;Noun Type=common Number=singular Case=instrumental
+Nn-si-----s;Noun Type=common Number=singular Case=instrumental Owned_Number=singular
+Nn-si-----p;Noun Type=common Number=singular Case=instrumental Owned_Number=plural
+Nn-si---s1;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=first
+Nn-si---s1s;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-si---s1p;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-si---s2;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=second
+Nn-si---s2s;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-si---s2p;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-si---s3;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=third
+Nn-si---s3s;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-si---s3p;Noun Type=common Number=singular Case=instrumental Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-si---p1;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=first
+Nn-si---p1s;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-si---p1p;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-si---p2;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=second
+Nn-si---p2s;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-si---p2p;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-si---p3;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=third
+Nn-si---p3s;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-si---p3p;Noun Type=common Number=singular Case=instrumental Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sx;Noun Type=common Number=singular Case=illative
+Nn-sx-----s;Noun Type=common Number=singular Case=illative Owned_Number=singular
+Nn-sx-----p;Noun Type=common Number=singular Case=illative Owned_Number=plural
+Nn-sx---s1;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=first
+Nn-sx---s1s;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sx---s1p;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sx---s2;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=second
+Nn-sx---s2s;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sx---s2p;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sx---s3;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=third
+Nn-sx---s3s;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sx---s3p;Noun Type=common Number=singular Case=illative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sx---p1;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=first
+Nn-sx---p1s;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sx---p1p;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sx---p2;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=second
+Nn-sx---p2s;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sx---p2p;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sx---p3;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=third
+Nn-sx---p3s;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sx---p3p;Noun Type=common Number=singular Case=illative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-s2;Noun Type=common Number=singular Case=inessive
+Nn-s2-----s;Noun Type=common Number=singular Case=inessive Owned_Number=singular
+Nn-s2-----p;Noun Type=common Number=singular Case=inessive Owned_Number=plural
+Nn-s2---s1;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=first
+Nn-s2---s1s;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-s2---s1p;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-s2---s2;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=second
+Nn-s2---s2s;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-s2---s2p;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-s2---s3;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=third
+Nn-s2---s3s;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-s2---s3p;Noun Type=common Number=singular Case=inessive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-s2---p1;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=first
+Nn-s2---p1s;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-s2---p1p;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-s2---p2;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=second
+Nn-s2---p2s;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-s2---p2p;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-s2---p3;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=third
+Nn-s2---p3s;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-s2---p3p;Noun Type=common Number=singular Case=inessive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-se;Noun Type=common Number=singular Case=elative
+Nn-se-----s;Noun Type=common Number=singular Case=elative Owned_Number=singular
+Nn-se-----p;Noun Type=common Number=singular Case=elative Owned_Number=plural
+Nn-se---s1;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=first
+Nn-se---s1s;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-se---s1p;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-se---s2;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=second
+Nn-se---s2s;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-se---s2p;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-se---s3;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=third
+Nn-se---s3s;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-se---s3p;Noun Type=common Number=singular Case=elative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-se---p1;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=first
+Nn-se---p1s;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-se---p1p;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-se---p2;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=second
+Nn-se---p2s;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-se---p2p;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-se---p3;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=third
+Nn-se---p3s;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-se---p3p;Noun Type=common Number=singular Case=elative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-st;Noun Type=common Number=singular Case=allative
+Nn-st-----s;Noun Type=common Number=singular Case=allative Owned_Number=singular
+Nn-st-----p;Noun Type=common Number=singular Case=allative Owned_Number=plural
+Nn-st---s1;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=first
+Nn-st---s1s;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-st---s1p;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-st---s2;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=second
+Nn-st---s2s;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-st---s2p;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-st---s3;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=third
+Nn-st---s3s;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-st---s3p;Noun Type=common Number=singular Case=allative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-st---p1;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=first
+Nn-st---p1s;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-st---p1p;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-st---p2;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=second
+Nn-st---p2s;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-st---p2p;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-st---p3;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=third
+Nn-st---p3s;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-st---p3p;Noun Type=common Number=singular Case=allative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-s3;Noun Type=common Number=singular Case=adessive
+Nn-s3-----s;Noun Type=common Number=singular Case=adessive Owned_Number=singular
+Nn-s3-----p;Noun Type=common Number=singular Case=adessive Owned_Number=plural
+Nn-s3---s1;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=first
+Nn-s3---s1s;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-s3---s1p;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-s3---s2;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=second
+Nn-s3---s2s;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-s3---s2p;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-s3---s3;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=third
+Nn-s3---s3s;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-s3---s3p;Noun Type=common Number=singular Case=adessive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-s3---p1;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=first
+Nn-s3---p1s;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-s3---p1p;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-s3---p2;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=second
+Nn-s3---p2s;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-s3---p2p;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-s3---p3;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=third
+Nn-s3---p3s;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-s3---p3p;Noun Type=common Number=singular Case=adessive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sb;Noun Type=common Number=singular Case=ablative
+Nn-sb-----s;Noun Type=common Number=singular Case=ablative Owned_Number=singular
+Nn-sb-----p;Noun Type=common Number=singular Case=ablative Owned_Number=plural
+Nn-sb---s1;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=first
+Nn-sb---s1s;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sb---s1p;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sb---s2;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=second
+Nn-sb---s2s;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sb---s2p;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sb---s3;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=third
+Nn-sb---s3s;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sb---s3p;Noun Type=common Number=singular Case=ablative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sb---p1;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=first
+Nn-sb---p1s;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sb---p1p;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sb---p2;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=second
+Nn-sb---p2s;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sb---p2p;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sb---p3;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=third
+Nn-sb---p3s;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sb---p3p;Noun Type=common Number=singular Case=ablative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-s9;Noun Type=common Number=singular Case=terminative
+Nn-s9-----s;Noun Type=common Number=singular Case=terminative Owned_Number=singular
+Nn-s9-----p;Noun Type=common Number=singular Case=terminative Owned_Number=plural
+Nn-s9---s1;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=first
+Nn-s9---s1s;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-s9---s1p;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-s9---s2;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=second
+Nn-s9---s2s;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-s9---s2p;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-s9---s3;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=third
+Nn-s9---s3s;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-s9---s3p;Noun Type=common Number=singular Case=terminative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-s9---p1;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=first
+Nn-s9---p1s;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-s9---p1p;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-s9---p2;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=second
+Nn-s9---p2s;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-s9---p2p;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-s9---p3;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=third
+Nn-s9---p3s;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-s9---p3p;Noun Type=common Number=singular Case=terminative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sw;Noun Type=common Number=singular Case=essive
+Nn-sw-----s;Noun Type=common Number=singular Case=essive Owned_Number=singular
+Nn-sw-----p;Noun Type=common Number=singular Case=essive Owned_Number=plural
+Nn-sw---s1;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=first
+Nn-sw---s1s;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sw---s1p;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sw---s2;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=second
+Nn-sw---s2s;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sw---s2p;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sw---s3;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=third
+Nn-sw---s3s;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sw---s3p;Noun Type=common Number=singular Case=essive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sw---p1;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=first
+Nn-sw---p1s;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sw---p1p;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sw---p2;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=second
+Nn-sw---p2s;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sw---p2p;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sw---p3;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=third
+Nn-sw---p3s;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sw---p3p;Noun Type=common Number=singular Case=essive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sm;Noun Type=common Number=singular Case=temporalis
+Nn-sm-----s;Noun Type=common Number=singular Case=temporalis Owned_Number=singular
+Nn-sm-----p;Noun Type=common Number=singular Case=temporalis Owned_Number=plural
+Nn-sm---s1;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=first
+Nn-sm---s1s;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sm---s1p;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sm---s2;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=second
+Nn-sm---s2s;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sm---s2p;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sm---s3;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=third
+Nn-sm---s3s;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sm---s3p;Noun Type=common Number=singular Case=temporalis Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sm---p1;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=first
+Nn-sm---p1s;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sm---p1p;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sm---p2;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=second
+Nn-sm---p2s;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sm---p2p;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sm---p3;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=third
+Nn-sm---p3s;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sm---p3p;Noun Type=common Number=singular Case=temporalis Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sc;Noun Type=common Number=singular Case=causalis
+Nn-sc-----s;Noun Type=common Number=singular Case=causalis Owned_Number=singular
+Nn-sc-----p;Noun Type=common Number=singular Case=causalis Owned_Number=plural
+Nn-sc---s1;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=first
+Nn-sc---s1s;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sc---s1p;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sc---s2;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=second
+Nn-sc---s2s;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sc---s2p;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sc---s3;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=third
+Nn-sc---s3s;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sc---s3p;Noun Type=common Number=singular Case=causalis Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sc---p1;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=first
+Nn-sc---p1s;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sc---p1p;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sc---p2;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=second
+Nn-sc---p2s;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sc---p2p;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sc---p3;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=third
+Nn-sc---p3s;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sc---p3p;Noun Type=common Number=singular Case=causalis Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-ss;Noun Type=common Number=singular Case=sublative
+Nn-ss-----s;Noun Type=common Number=singular Case=sublative Owned_Number=singular
+Nn-ss-----p;Noun Type=common Number=singular Case=sublative Owned_Number=plural
+Nn-ss---s1;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=first
+Nn-ss---s1s;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-ss---s1p;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-ss---s2;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=second
+Nn-ss---s2s;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-ss---s2p;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-ss---s3;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=third
+Nn-ss---s3s;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-ss---s3p;Noun Type=common Number=singular Case=sublative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-ss---p1;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=first
+Nn-ss---p1s;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-ss---p1p;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-ss---p2;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=second
+Nn-ss---p2s;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-ss---p2p;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-ss---p3;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=third
+Nn-ss---p3s;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-ss---p3p;Noun Type=common Number=singular Case=sublative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sh;Noun Type=common Number=singular Case=delative
+Nn-sh-----s;Noun Type=common Number=singular Case=delative Owned_Number=singular
+Nn-sh-----p;Noun Type=common Number=singular Case=delative Owned_Number=plural
+Nn-sh---s1;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=first
+Nn-sh---s1s;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sh---s1p;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sh---s2;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=second
+Nn-sh---s2s;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sh---s2p;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sh---s3;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=third
+Nn-sh---s3s;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sh---s3p;Noun Type=common Number=singular Case=delative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sh---p1;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=first
+Nn-sh---p1s;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sh---p1p;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sh---p2;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=second
+Nn-sh---p2s;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sh---p2p;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sh---p3;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=third
+Nn-sh---p3s;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sh---p3p;Noun Type=common Number=singular Case=delative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sq;Noun Type=common Number=singular Case=sociative
+Nn-sq-----s;Noun Type=common Number=singular Case=sociative Owned_Number=singular
+Nn-sq-----p;Noun Type=common Number=singular Case=sociative Owned_Number=plural
+Nn-sq---s1;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=first
+Nn-sq---s1s;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sq---s1p;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sq---s2;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=second
+Nn-sq---s2s;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sq---s2p;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sq---s3;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=third
+Nn-sq---s3s;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sq---s3p;Noun Type=common Number=singular Case=sociative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sq---p1;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=first
+Nn-sq---p1s;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sq---p1p;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sq---p2;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=second
+Nn-sq---p2s;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sq---p2p;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sq---p3;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=third
+Nn-sq---p3s;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sq---p3p;Noun Type=common Number=singular Case=sociative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sy;Noun Type=common Number=singular Case=factive
+Nn-sy-----s;Noun Type=common Number=singular Case=factive Owned_Number=singular
+Nn-sy-----p;Noun Type=common Number=singular Case=factive Owned_Number=plural
+Nn-sy---s1;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=first
+Nn-sy---s1s;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sy---s1p;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sy---s2;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=second
+Nn-sy---s2s;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sy---s2p;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sy---s3;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=third
+Nn-sy---s3s;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sy---s3p;Noun Type=common Number=singular Case=factive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sy---p1;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=first
+Nn-sy---p1s;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sy---p1p;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sy---p2;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=second
+Nn-sy---p2s;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sy---p2p;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sy---p3;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=third
+Nn-sy---p3s;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sy---p3p;Noun Type=common Number=singular Case=factive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sp;Noun Type=common Number=singular Case=superessive
+Nn-sp-----s;Noun Type=common Number=singular Case=superessive Owned_Number=singular
+Nn-sp-----p;Noun Type=common Number=singular Case=superessive Owned_Number=plural
+Nn-sp---s1;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=first
+Nn-sp---s1s;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sp---s1p;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sp---s2;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=second
+Nn-sp---s2s;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sp---s2p;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sp---s3;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=third
+Nn-sp---s3s;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sp---s3p;Noun Type=common Number=singular Case=superessive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sp---p1;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=first
+Nn-sp---p1s;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sp---p1p;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sp---p2;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=second
+Nn-sp---p2s;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sp---p2p;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sp---p3;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=third
+Nn-sp---p3s;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sp---p3p;Noun Type=common Number=singular Case=superessive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-su;Noun Type=common Number=singular Case=distributive
+Nn-su-----s;Noun Type=common Number=singular Case=distributive Owned_Number=singular
+Nn-su-----p;Noun Type=common Number=singular Case=distributive Owned_Number=plural
+Nn-su---s1;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=first
+Nn-su---s1s;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-su---s1p;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-su---s2;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=second
+Nn-su---s2s;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-su---s2p;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-su---s3;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=third
+Nn-su---s3s;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-su---s3p;Noun Type=common Number=singular Case=distributive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-su---p1;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=first
+Nn-su---p1s;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-su---p1p;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-su---p2;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=second
+Nn-su---p2s;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-su---p2p;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-su---p3;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=third
+Nn-su---p3s;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-su---p3p;Noun Type=common Number=singular Case=distributive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-sf;Noun Type=common Number=singular Case=essive-formal
+Nn-sf-----s;Noun Type=common Number=singular Case=essive-formal Owned_Number=singular
+Nn-sf-----p;Noun Type=common Number=singular Case=essive-formal Owned_Number=plural
+Nn-sf---s1;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=first
+Nn-sf---s1s;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-sf---s1p;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-sf---s2;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=second
+Nn-sf---s2s;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-sf---s2p;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-sf---s3;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=third
+Nn-sf---s3s;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-sf---s3p;Noun Type=common Number=singular Case=essive-formal Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-sf---p1;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=first
+Nn-sf---p1s;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-sf---p1p;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-sf---p2;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=second
+Nn-sf---p2s;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-sf---p2p;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-sf---p3;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=third
+Nn-sf---p3s;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-sf---p3p;Noun Type=common Number=singular Case=essive-formal Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pn;Noun Type=common Number=plural Case=nominative
+Nn-pn-----s;Noun Type=common Number=plural Case=nominative Owned_Number=singular
+Nn-pn-----p;Noun Type=common Number=plural Case=nominative Owned_Number=plural
+Nn-pn---s1;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=first
+Nn-pn---s1s;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pn---s1p;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pn---s2;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=second
+Nn-pn---s2s;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pn---s2p;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pn---s3;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=third
+Nn-pn---s3s;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pn---s3p;Noun Type=common Number=plural Case=nominative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pn---p1;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=first
+Nn-pn---p1s;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pn---p1p;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pn---p2;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=second
+Nn-pn---p2s;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pn---p2p;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pn---p3;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=third
+Nn-pn---p3s;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pn---p3p;Noun Type=common Number=plural Case=nominative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pg;Noun Type=common Number=plural Case=genitive
+Nn-pg-----s;Noun Type=common Number=plural Case=genitive Owned_Number=singular
+Nn-pg-----p;Noun Type=common Number=plural Case=genitive Owned_Number=plural
+Nn-pg---s1;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=first
+Nn-pg---s1s;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pg---s1p;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pg---s2;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=second
+Nn-pg---s2s;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pg---s2p;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pg---s3;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=third
+Nn-pg---s3s;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pg---s3p;Noun Type=common Number=plural Case=genitive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pg---p1;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=first
+Nn-pg---p1s;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pg---p1p;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pg---p2;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=second
+Nn-pg---p2s;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pg---p2p;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pg---p3;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=third
+Nn-pg---p3s;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pg---p3p;Noun Type=common Number=plural Case=genitive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pd;Noun Type=common Number=plural Case=dative
+Nn-pd-----s;Noun Type=common Number=plural Case=dative Owned_Number=singular
+Nn-pd-----p;Noun Type=common Number=plural Case=dative Owned_Number=plural
+Nn-pd---s1;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=first
+Nn-pd---s1s;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pd---s1p;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pd---s2;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=second
+Nn-pd---s2s;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pd---s2p;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pd---s3;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=third
+Nn-pd---s3s;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pd---s3p;Noun Type=common Number=plural Case=dative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pd---p1;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=first
+Nn-pd---p1s;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pd---p1p;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pd---p2;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=second
+Nn-pd---p2s;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pd---p2p;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pd---p3;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=third
+Nn-pd---p3s;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pd---p3p;Noun Type=common Number=plural Case=dative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pa;Noun Type=common Number=plural Case=accusative
+Nn-pa-----s;Noun Type=common Number=plural Case=accusative Owned_Number=singular
+Nn-pa-----p;Noun Type=common Number=plural Case=accusative Owned_Number=plural
+Nn-pa---s1;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=first
+Nn-pa---s1s;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pa---s1p;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pa---s2;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=second
+Nn-pa---s2s;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pa---s2p;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pa---s3;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=third
+Nn-pa---s3s;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pa---s3p;Noun Type=common Number=plural Case=accusative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pa---p1;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=first
+Nn-pa---p1s;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pa---p1p;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pa---p2;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=second
+Nn-pa---p2s;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pa---p2p;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pa---p3;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=third
+Nn-pa---p3s;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pa---p3p;Noun Type=common Number=plural Case=accusative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pi;Noun Type=common Number=plural Case=instrumental
+Nn-pi-----s;Noun Type=common Number=plural Case=instrumental Owned_Number=singular
+Nn-pi-----p;Noun Type=common Number=plural Case=instrumental Owned_Number=plural
+Nn-pi---s1;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=first
+Nn-pi---s1s;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pi---s1p;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pi---s2;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=second
+Nn-pi---s2s;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pi---s2p;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pi---s3;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=third
+Nn-pi---s3s;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pi---s3p;Noun Type=common Number=plural Case=instrumental Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pi---p1;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=first
+Nn-pi---p1s;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pi---p1p;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pi---p2;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=second
+Nn-pi---p2s;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pi---p2p;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pi---p3;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=third
+Nn-pi---p3s;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pi---p3p;Noun Type=common Number=plural Case=instrumental Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-px;Noun Type=common Number=plural Case=illative
+Nn-px-----s;Noun Type=common Number=plural Case=illative Owned_Number=singular
+Nn-px-----p;Noun Type=common Number=plural Case=illative Owned_Number=plural
+Nn-px---s1;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=first
+Nn-px---s1s;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-px---s1p;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-px---s2;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=second
+Nn-px---s2s;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-px---s2p;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-px---s3;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=third
+Nn-px---s3s;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-px---s3p;Noun Type=common Number=plural Case=illative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-px---p1;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=first
+Nn-px---p1s;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-px---p1p;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-px---p2;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=second
+Nn-px---p2s;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-px---p2p;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-px---p3;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=third
+Nn-px---p3s;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-px---p3p;Noun Type=common Number=plural Case=illative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-p2;Noun Type=common Number=plural Case=inessive
+Nn-p2-----s;Noun Type=common Number=plural Case=inessive Owned_Number=singular
+Nn-p2-----p;Noun Type=common Number=plural Case=inessive Owned_Number=plural
+Nn-p2---s1;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=first
+Nn-p2---s1s;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-p2---s1p;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-p2---s2;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=second
+Nn-p2---s2s;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-p2---s2p;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-p2---s3;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=third
+Nn-p2---s3s;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-p2---s3p;Noun Type=common Number=plural Case=inessive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-p2---p1;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=first
+Nn-p2---p1s;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-p2---p1p;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-p2---p2;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=second
+Nn-p2---p2s;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-p2---p2p;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-p2---p3;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=third
+Nn-p2---p3s;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-p2---p3p;Noun Type=common Number=plural Case=inessive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pe;Noun Type=common Number=plural Case=elative
+Nn-pe-----s;Noun Type=common Number=plural Case=elative Owned_Number=singular
+Nn-pe-----p;Noun Type=common Number=plural Case=elative Owned_Number=plural
+Nn-pe---s1;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=first
+Nn-pe---s1s;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pe---s1p;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pe---s2;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=second
+Nn-pe---s2s;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pe---s2p;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pe---s3;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=third
+Nn-pe---s3s;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pe---s3p;Noun Type=common Number=plural Case=elative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pe---p1;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=first
+Nn-pe---p1s;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pe---p1p;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pe---p2;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=second
+Nn-pe---p2s;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pe---p2p;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pe---p3;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=third
+Nn-pe---p3s;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pe---p3p;Noun Type=common Number=plural Case=elative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pt;Noun Type=common Number=plural Case=allative
+Nn-pt-----s;Noun Type=common Number=plural Case=allative Owned_Number=singular
+Nn-pt-----p;Noun Type=common Number=plural Case=allative Owned_Number=plural
+Nn-pt---s1;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=first
+Nn-pt---s1s;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pt---s1p;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pt---s2;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=second
+Nn-pt---s2s;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pt---s2p;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pt---s3;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=third
+Nn-pt---s3s;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pt---s3p;Noun Type=common Number=plural Case=allative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pt---p1;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=first
+Nn-pt---p1s;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pt---p1p;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pt---p2;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=second
+Nn-pt---p2s;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pt---p2p;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pt---p3;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=third
+Nn-pt---p3s;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pt---p3p;Noun Type=common Number=plural Case=allative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-p3;Noun Type=common Number=plural Case=adessive
+Nn-p3-----s;Noun Type=common Number=plural Case=adessive Owned_Number=singular
+Nn-p3-----p;Noun Type=common Number=plural Case=adessive Owned_Number=plural
+Nn-p3---s1;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=first
+Nn-p3---s1s;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-p3---s1p;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-p3---s2;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=second
+Nn-p3---s2s;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-p3---s2p;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-p3---s3;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=third
+Nn-p3---s3s;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-p3---s3p;Noun Type=common Number=plural Case=adessive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-p3---p1;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=first
+Nn-p3---p1s;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-p3---p1p;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-p3---p2;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=second
+Nn-p3---p2s;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-p3---p2p;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-p3---p3;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=third
+Nn-p3---p3s;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-p3---p3p;Noun Type=common Number=plural Case=adessive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pb;Noun Type=common Number=plural Case=ablative
+Nn-pb-----s;Noun Type=common Number=plural Case=ablative Owned_Number=singular
+Nn-pb-----p;Noun Type=common Number=plural Case=ablative Owned_Number=plural
+Nn-pb---s1;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=first
+Nn-pb---s1s;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pb---s1p;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pb---s2;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=second
+Nn-pb---s2s;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pb---s2p;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pb---s3;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=third
+Nn-pb---s3s;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pb---s3p;Noun Type=common Number=plural Case=ablative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pb---p1;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=first
+Nn-pb---p1s;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pb---p1p;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pb---p2;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=second
+Nn-pb---p2s;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pb---p2p;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pb---p3;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=third
+Nn-pb---p3s;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pb---p3p;Noun Type=common Number=plural Case=ablative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-p9;Noun Type=common Number=plural Case=terminative
+Nn-p9-----s;Noun Type=common Number=plural Case=terminative Owned_Number=singular
+Nn-p9-----p;Noun Type=common Number=plural Case=terminative Owned_Number=plural
+Nn-p9---s1;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=first
+Nn-p9---s1s;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-p9---s1p;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-p9---s2;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=second
+Nn-p9---s2s;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-p9---s2p;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-p9---s3;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=third
+Nn-p9---s3s;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-p9---s3p;Noun Type=common Number=plural Case=terminative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-p9---p1;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=first
+Nn-p9---p1s;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-p9---p1p;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-p9---p2;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=second
+Nn-p9---p2s;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-p9---p2p;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-p9---p3;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=third
+Nn-p9---p3s;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-p9---p3p;Noun Type=common Number=plural Case=terminative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pw;Noun Type=common Number=plural Case=essive
+Nn-pw-----s;Noun Type=common Number=plural Case=essive Owned_Number=singular
+Nn-pw-----p;Noun Type=common Number=plural Case=essive Owned_Number=plural
+Nn-pw---s1;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=first
+Nn-pw---s1s;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pw---s1p;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pw---s2;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=second
+Nn-pw---s2s;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pw---s2p;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pw---s3;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=third
+Nn-pw---s3s;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pw---s3p;Noun Type=common Number=plural Case=essive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pw---p1;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=first
+Nn-pw---p1s;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pw---p1p;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pw---p2;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=second
+Nn-pw---p2s;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pw---p2p;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pw---p3;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=third
+Nn-pw---p3s;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pw---p3p;Noun Type=common Number=plural Case=essive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pm;Noun Type=common Number=plural Case=temporalis
+Nn-pm-----s;Noun Type=common Number=plural Case=temporalis Owned_Number=singular
+Nn-pm-----p;Noun Type=common Number=plural Case=temporalis Owned_Number=plural
+Nn-pm---s1;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=first
+Nn-pm---s1s;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pm---s1p;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pm---s2;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=second
+Nn-pm---s2s;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pm---s2p;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pm---s3;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=third
+Nn-pm---s3s;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pm---s3p;Noun Type=common Number=plural Case=temporalis Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pm---p1;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=first
+Nn-pm---p1s;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pm---p1p;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pm---p2;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=second
+Nn-pm---p2s;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pm---p2p;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pm---p3;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=third
+Nn-pm---p3s;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pm---p3p;Noun Type=common Number=plural Case=temporalis Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pc;Noun Type=common Number=plural Case=causalis
+Nn-pc-----s;Noun Type=common Number=plural Case=causalis Owned_Number=singular
+Nn-pc-----p;Noun Type=common Number=plural Case=causalis Owned_Number=plural
+Nn-pc---s1;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=first
+Nn-pc---s1s;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pc---s1p;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pc---s2;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=second
+Nn-pc---s2s;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pc---s2p;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pc---s3;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=third
+Nn-pc---s3s;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pc---s3p;Noun Type=common Number=plural Case=causalis Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pc---p1;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=first
+Nn-pc---p1s;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pc---p1p;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pc---p2;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=second
+Nn-pc---p2s;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pc---p2p;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pc---p3;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=third
+Nn-pc---p3s;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pc---p3p;Noun Type=common Number=plural Case=causalis Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-ps;Noun Type=common Number=plural Case=sublative
+Nn-ps-----s;Noun Type=common Number=plural Case=sublative Owned_Number=singular
+Nn-ps-----p;Noun Type=common Number=plural Case=sublative Owned_Number=plural
+Nn-ps---s1;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=first
+Nn-ps---s1s;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-ps---s1p;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-ps---s2;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=second
+Nn-ps---s2s;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-ps---s2p;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-ps---s3;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=third
+Nn-ps---s3s;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-ps---s3p;Noun Type=common Number=plural Case=sublative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-ps---p1;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=first
+Nn-ps---p1s;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-ps---p1p;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-ps---p2;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=second
+Nn-ps---p2s;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-ps---p2p;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-ps---p3;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=third
+Nn-ps---p3s;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-ps---p3p;Noun Type=common Number=plural Case=sublative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-ph;Noun Type=common Number=plural Case=delative
+Nn-ph-----s;Noun Type=common Number=plural Case=delative Owned_Number=singular
+Nn-ph-----p;Noun Type=common Number=plural Case=delative Owned_Number=plural
+Nn-ph---s1;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=first
+Nn-ph---s1s;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-ph---s1p;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-ph---s2;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=second
+Nn-ph---s2s;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-ph---s2p;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-ph---s3;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=third
+Nn-ph---s3s;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-ph---s3p;Noun Type=common Number=plural Case=delative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-ph---p1;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=first
+Nn-ph---p1s;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-ph---p1p;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-ph---p2;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=second
+Nn-ph---p2s;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-ph---p2p;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-ph---p3;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=third
+Nn-ph---p3s;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-ph---p3p;Noun Type=common Number=plural Case=delative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pq;Noun Type=common Number=plural Case=sociative
+Nn-pq-----s;Noun Type=common Number=plural Case=sociative Owned_Number=singular
+Nn-pq-----p;Noun Type=common Number=plural Case=sociative Owned_Number=plural
+Nn-pq---s1;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=first
+Nn-pq---s1s;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pq---s1p;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pq---s2;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=second
+Nn-pq---s2s;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pq---s2p;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pq---s3;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=third
+Nn-pq---s3s;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pq---s3p;Noun Type=common Number=plural Case=sociative Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pq---p1;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=first
+Nn-pq---p1s;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pq---p1p;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pq---p2;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=second
+Nn-pq---p2s;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pq---p2p;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pq---p3;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=third
+Nn-pq---p3s;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pq---p3p;Noun Type=common Number=plural Case=sociative Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-py;Noun Type=common Number=plural Case=factive
+Nn-py-----s;Noun Type=common Number=plural Case=factive Owned_Number=singular
+Nn-py-----p;Noun Type=common Number=plural Case=factive Owned_Number=plural
+Nn-py---s1;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=first
+Nn-py---s1s;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-py---s1p;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-py---s2;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=second
+Nn-py---s2s;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-py---s2p;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-py---s3;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=third
+Nn-py---s3s;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-py---s3p;Noun Type=common Number=plural Case=factive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-py---p1;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=first
+Nn-py---p1s;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-py---p1p;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-py---p2;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=second
+Nn-py---p2s;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-py---p2p;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-py---p3;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=third
+Nn-py---p3s;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-py---p3p;Noun Type=common Number=plural Case=factive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pp;Noun Type=common Number=plural Case=superessive
+Nn-pp-----s;Noun Type=common Number=plural Case=superessive Owned_Number=singular
+Nn-pp-----p;Noun Type=common Number=plural Case=superessive Owned_Number=plural
+Nn-pp---s1;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=first
+Nn-pp---s1s;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pp---s1p;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pp---s2;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=second
+Nn-pp---s2s;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pp---s2p;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pp---s3;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=third
+Nn-pp---s3s;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pp---s3p;Noun Type=common Number=plural Case=superessive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pp---p1;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=first
+Nn-pp---p1s;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pp---p1p;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pp---p2;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=second
+Nn-pp---p2s;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pp---p2p;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pp---p3;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=third
+Nn-pp---p3s;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pp---p3p;Noun Type=common Number=plural Case=superessive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pu;Noun Type=common Number=plural Case=distributive
+Nn-pu-----s;Noun Type=common Number=plural Case=distributive Owned_Number=singular
+Nn-pu-----p;Noun Type=common Number=plural Case=distributive Owned_Number=plural
+Nn-pu---s1;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=first
+Nn-pu---s1s;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pu---s1p;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pu---s2;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=second
+Nn-pu---s2s;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pu---s2p;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pu---s3;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=third
+Nn-pu---s3s;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pu---s3p;Noun Type=common Number=plural Case=distributive Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pu---p1;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=first
+Nn-pu---p1s;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pu---p1p;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pu---p2;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=second
+Nn-pu---p2s;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pu---p2p;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pu---p3;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=third
+Nn-pu---p3s;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pu---p3p;Noun Type=common Number=plural Case=distributive Owner_Number=plural Owner_Person=third Owned_Number=plural
+Nn-pf;Noun Type=common Number=plural Case=essive-formal
+Nn-pf-----s;Noun Type=common Number=plural Case=essive-formal Owned_Number=singular
+Nn-pf-----p;Noun Type=common Number=plural Case=essive-formal Owned_Number=plural
+Nn-pf---s1;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=first
+Nn-pf---s1s;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=first Owned_Number=singular
+Nn-pf---s1p;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=first Owned_Number=plural
+Nn-pf---s2;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=second
+Nn-pf---s2s;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=second Owned_Number=singular
+Nn-pf---s2p;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=second Owned_Number=plural
+Nn-pf---s3;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=third
+Nn-pf---s3s;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=third Owned_Number=singular
+Nn-pf---s3p;Noun Type=common Number=plural Case=essive-formal Owner_Number=singular Owner_Person=third Owned_Number=plural
+Nn-pf---p1;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=first
+Nn-pf---p1s;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=first Owned_Number=singular
+Nn-pf---p1p;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=first Owned_Number=plural
+Nn-pf---p2;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=second
+Nn-pf---p2s;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=second Owned_Number=singular
+Nn-pf---p2p;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=second Owned_Number=plural
+Nn-pf---p3;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=third
+Nn-pf---p3s;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=third Owned_Number=singular
+Nn-pf---p3p;Noun Type=common Number=plural Case=essive-formal Owner_Number=plural Owner_Person=third Owned_Number=plural
 Np-sn;Noun Type=proper Number=singular Case=nominative
 Np-sn-----s;Noun Type=proper Number=singular Case=nominative Owned_Number=singular
 Np-sn-----p;Noun Type=proper Number=singular Case=nominative Owned_Number=plural
@@ -9321,14 +9321,14 @@ Rv;Adverb Type=verbal
 Rm;Adverb Type=modifier
 Rq-y;Adverb Type=interrogative Clitic=yes
 St;Adposition Type=postposition
-Ccsp;Conjunction Type=coordinating Formation=simple Coord_Type=sentence
-Ccsw;Conjunction Type=coordinating Formation=simple Coord_Type=words
-Cccp;Conjunction Type=coordinating Formation=compound Coord_Type=sentence
-Cccw;Conjunction Type=coordinating Formation=compound Coord_Type=words
-Cssp;Conjunction Type=subordinating Formation=simple Coord_Type=sentence
-Cssw;Conjunction Type=subordinating Formation=simple Coord_Type=words
-Cscp;Conjunction Type=subordinating Formation=compound Coord_Type=sentence
-Cscw;Conjunction Type=subordinating Formation=compound Coord_Type=words
+Ccsp;ConjuNntion Type=coordinating Formation=simple Coord_Type=senteNne
+Ccsw;ConjuNntion Type=coordinating Formation=simple Coord_Type=words
+Cccp;ConjuNntion Type=coordinating Formation=compound Coord_Type=senteNne
+Cccw;ConjuNntion Type=coordinating Formation=compound Coord_Type=words
+Cssp;ConjuNntion Type=subordinating Formation=simple Coord_Type=senteNne
+Cssw;ConjuNntion Type=subordinating Formation=simple Coord_Type=words
+Cscp;ConjuNntion Type=subordinating Formation=compound Coord_Type=senteNne
+Cscw;ConjuNntion Type=subordinating Formation=compound Coord_Type=words
 Mc-snd;Numeral Type=cardinal Number=singular Case=nominative Form=digit
 Mc-snd------s;Numeral Type=cardinal Number=singular Case=nominative Form=digit Owned_Number=singular
 Mc-snd------p;Numeral Type=cardinal Number=singular Case=nominative Form=digit Owned_Number=plural

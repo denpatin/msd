@@ -1,927 +1,927 @@
-Nc-sn	Noun common singular nominative
-Nc-sn-----s	Noun common singular nominative singular
-Nc-sn-----p	Noun common singular nominative plural
-Nc-sn---s1	Noun common singular nominative singular first
-Nc-sn---s1s	Noun common singular nominative singular first singular
-Nc-sn---s1p	Noun common singular nominative singular first plural
-Nc-sn---s2	Noun common singular nominative singular second
-Nc-sn---s2s	Noun common singular nominative singular second singular
-Nc-sn---s2p	Noun common singular nominative singular second plural
-Nc-sn---s3	Noun common singular nominative singular third
-Nc-sn---s3s	Noun common singular nominative singular third singular
-Nc-sn---s3p	Noun common singular nominative singular third plural
-Nc-sn---p1	Noun common singular nominative plural first
-Nc-sn---p1s	Noun common singular nominative plural first singular
-Nc-sn---p1p	Noun common singular nominative plural first plural
-Nc-sn---p2	Noun common singular nominative plural second
-Nc-sn---p2s	Noun common singular nominative plural second singular
-Nc-sn---p2p	Noun common singular nominative plural second plural
-Nc-sn---p3	Noun common singular nominative plural third
-Nc-sn---p3s	Noun common singular nominative plural third singular
-Nc-sn---p3p	Noun common singular nominative plural third plural
-Nc-sg	Noun common singular genitive
-Nc-sg-----s	Noun common singular genitive singular
-Nc-sg-----p	Noun common singular genitive plural
-Nc-sg---s1	Noun common singular genitive singular first
-Nc-sg---s1s	Noun common singular genitive singular first singular
-Nc-sg---s1p	Noun common singular genitive singular first plural
-Nc-sg---s2	Noun common singular genitive singular second
-Nc-sg---s2s	Noun common singular genitive singular second singular
-Nc-sg---s2p	Noun common singular genitive singular second plural
-Nc-sg---s3	Noun common singular genitive singular third
-Nc-sg---s3s	Noun common singular genitive singular third singular
-Nc-sg---s3p	Noun common singular genitive singular third plural
-Nc-sg---p1	Noun common singular genitive plural first
-Nc-sg---p1s	Noun common singular genitive plural first singular
-Nc-sg---p1p	Noun common singular genitive plural first plural
-Nc-sg---p2	Noun common singular genitive plural second
-Nc-sg---p2s	Noun common singular genitive plural second singular
-Nc-sg---p2p	Noun common singular genitive plural second plural
-Nc-sg---p3	Noun common singular genitive plural third
-Nc-sg---p3s	Noun common singular genitive plural third singular
-Nc-sg---p3p	Noun common singular genitive plural third plural
-Nc-sd	Noun common singular dative
-Nc-sd-----s	Noun common singular dative singular
-Nc-sd-----p	Noun common singular dative plural
-Nc-sd---s1	Noun common singular dative singular first
-Nc-sd---s1s	Noun common singular dative singular first singular
-Nc-sd---s1p	Noun common singular dative singular first plural
-Nc-sd---s2	Noun common singular dative singular second
-Nc-sd---s2s	Noun common singular dative singular second singular
-Nc-sd---s2p	Noun common singular dative singular second plural
-Nc-sd---s3	Noun common singular dative singular third
-Nc-sd---s3s	Noun common singular dative singular third singular
-Nc-sd---s3p	Noun common singular dative singular third plural
-Nc-sd---p1	Noun common singular dative plural first
-Nc-sd---p1s	Noun common singular dative plural first singular
-Nc-sd---p1p	Noun common singular dative plural first plural
-Nc-sd---p2	Noun common singular dative plural second
-Nc-sd---p2s	Noun common singular dative plural second singular
-Nc-sd---p2p	Noun common singular dative plural second plural
-Nc-sd---p3	Noun common singular dative plural third
-Nc-sd---p3s	Noun common singular dative plural third singular
-Nc-sd---p3p	Noun common singular dative plural third plural
-Nc-sa	Noun common singular accusative
-Nc-sa-----s	Noun common singular accusative singular
-Nc-sa-----p	Noun common singular accusative plural
-Nc-sa---s1	Noun common singular accusative singular first
-Nc-sa---s1s	Noun common singular accusative singular first singular
-Nc-sa---s1p	Noun common singular accusative singular first plural
-Nc-sa---s2	Noun common singular accusative singular second
-Nc-sa---s2s	Noun common singular accusative singular second singular
-Nc-sa---s2p	Noun common singular accusative singular second plural
-Nc-sa---s3	Noun common singular accusative singular third
-Nc-sa---s3s	Noun common singular accusative singular third singular
-Nc-sa---s3p	Noun common singular accusative singular third plural
-Nc-sa---p1	Noun common singular accusative plural first
-Nc-sa---p1s	Noun common singular accusative plural first singular
-Nc-sa---p1p	Noun common singular accusative plural first plural
-Nc-sa---p2	Noun common singular accusative plural second
-Nc-sa---p2s	Noun common singular accusative plural second singular
-Nc-sa---p2p	Noun common singular accusative plural second plural
-Nc-sa---p3	Noun common singular accusative plural third
-Nc-sa---p3s	Noun common singular accusative plural third singular
-Nc-sa---p3p	Noun common singular accusative plural third plural
-Nc-si	Noun common singular instrumental
-Nc-si-----s	Noun common singular instrumental singular
-Nc-si-----p	Noun common singular instrumental plural
-Nc-si---s1	Noun common singular instrumental singular first
-Nc-si---s1s	Noun common singular instrumental singular first singular
-Nc-si---s1p	Noun common singular instrumental singular first plural
-Nc-si---s2	Noun common singular instrumental singular second
-Nc-si---s2s	Noun common singular instrumental singular second singular
-Nc-si---s2p	Noun common singular instrumental singular second plural
-Nc-si---s3	Noun common singular instrumental singular third
-Nc-si---s3s	Noun common singular instrumental singular third singular
-Nc-si---s3p	Noun common singular instrumental singular third plural
-Nc-si---p1	Noun common singular instrumental plural first
-Nc-si---p1s	Noun common singular instrumental plural first singular
-Nc-si---p1p	Noun common singular instrumental plural first plural
-Nc-si---p2	Noun common singular instrumental plural second
-Nc-si---p2s	Noun common singular instrumental plural second singular
-Nc-si---p2p	Noun common singular instrumental plural second plural
-Nc-si---p3	Noun common singular instrumental plural third
-Nc-si---p3s	Noun common singular instrumental plural third singular
-Nc-si---p3p	Noun common singular instrumental plural third plural
-Nc-sx	Noun common singular illative
-Nc-sx-----s	Noun common singular illative singular
-Nc-sx-----p	Noun common singular illative plural
-Nc-sx---s1	Noun common singular illative singular first
-Nc-sx---s1s	Noun common singular illative singular first singular
-Nc-sx---s1p	Noun common singular illative singular first plural
-Nc-sx---s2	Noun common singular illative singular second
-Nc-sx---s2s	Noun common singular illative singular second singular
-Nc-sx---s2p	Noun common singular illative singular second plural
-Nc-sx---s3	Noun common singular illative singular third
-Nc-sx---s3s	Noun common singular illative singular third singular
-Nc-sx---s3p	Noun common singular illative singular third plural
-Nc-sx---p1	Noun common singular illative plural first
-Nc-sx---p1s	Noun common singular illative plural first singular
-Nc-sx---p1p	Noun common singular illative plural first plural
-Nc-sx---p2	Noun common singular illative plural second
-Nc-sx---p2s	Noun common singular illative plural second singular
-Nc-sx---p2p	Noun common singular illative plural second plural
-Nc-sx---p3	Noun common singular illative plural third
-Nc-sx---p3s	Noun common singular illative plural third singular
-Nc-sx---p3p	Noun common singular illative plural third plural
-Nc-s2	Noun common singular inessive
-Nc-s2-----s	Noun common singular inessive singular
-Nc-s2-----p	Noun common singular inessive plural
-Nc-s2---s1	Noun common singular inessive singular first
-Nc-s2---s1s	Noun common singular inessive singular first singular
-Nc-s2---s1p	Noun common singular inessive singular first plural
-Nc-s2---s2	Noun common singular inessive singular second
-Nc-s2---s2s	Noun common singular inessive singular second singular
-Nc-s2---s2p	Noun common singular inessive singular second plural
-Nc-s2---s3	Noun common singular inessive singular third
-Nc-s2---s3s	Noun common singular inessive singular third singular
-Nc-s2---s3p	Noun common singular inessive singular third plural
-Nc-s2---p1	Noun common singular inessive plural first
-Nc-s2---p1s	Noun common singular inessive plural first singular
-Nc-s2---p1p	Noun common singular inessive plural first plural
-Nc-s2---p2	Noun common singular inessive plural second
-Nc-s2---p2s	Noun common singular inessive plural second singular
-Nc-s2---p2p	Noun common singular inessive plural second plural
-Nc-s2---p3	Noun common singular inessive plural third
-Nc-s2---p3s	Noun common singular inessive plural third singular
-Nc-s2---p3p	Noun common singular inessive plural third plural
-Nc-se	Noun common singular elative
-Nc-se-----s	Noun common singular elative singular
-Nc-se-----p	Noun common singular elative plural
-Nc-se---s1	Noun common singular elative singular first
-Nc-se---s1s	Noun common singular elative singular first singular
-Nc-se---s1p	Noun common singular elative singular first plural
-Nc-se---s2	Noun common singular elative singular second
-Nc-se---s2s	Noun common singular elative singular second singular
-Nc-se---s2p	Noun common singular elative singular second plural
-Nc-se---s3	Noun common singular elative singular third
-Nc-se---s3s	Noun common singular elative singular third singular
-Nc-se---s3p	Noun common singular elative singular third plural
-Nc-se---p1	Noun common singular elative plural first
-Nc-se---p1s	Noun common singular elative plural first singular
-Nc-se---p1p	Noun common singular elative plural first plural
-Nc-se---p2	Noun common singular elative plural second
-Nc-se---p2s	Noun common singular elative plural second singular
-Nc-se---p2p	Noun common singular elative plural second plural
-Nc-se---p3	Noun common singular elative plural third
-Nc-se---p3s	Noun common singular elative plural third singular
-Nc-se---p3p	Noun common singular elative plural third plural
-Nc-st	Noun common singular allative
-Nc-st-----s	Noun common singular allative singular
-Nc-st-----p	Noun common singular allative plural
-Nc-st---s1	Noun common singular allative singular first
-Nc-st---s1s	Noun common singular allative singular first singular
-Nc-st---s1p	Noun common singular allative singular first plural
-Nc-st---s2	Noun common singular allative singular second
-Nc-st---s2s	Noun common singular allative singular second singular
-Nc-st---s2p	Noun common singular allative singular second plural
-Nc-st---s3	Noun common singular allative singular third
-Nc-st---s3s	Noun common singular allative singular third singular
-Nc-st---s3p	Noun common singular allative singular third plural
-Nc-st---p1	Noun common singular allative plural first
-Nc-st---p1s	Noun common singular allative plural first singular
-Nc-st---p1p	Noun common singular allative plural first plural
-Nc-st---p2	Noun common singular allative plural second
-Nc-st---p2s	Noun common singular allative plural second singular
-Nc-st---p2p	Noun common singular allative plural second plural
-Nc-st---p3	Noun common singular allative plural third
-Nc-st---p3s	Noun common singular allative plural third singular
-Nc-st---p3p	Noun common singular allative plural third plural
-Nc-s3	Noun common singular adessive
-Nc-s3-----s	Noun common singular adessive singular
-Nc-s3-----p	Noun common singular adessive plural
-Nc-s3---s1	Noun common singular adessive singular first
-Nc-s3---s1s	Noun common singular adessive singular first singular
-Nc-s3---s1p	Noun common singular adessive singular first plural
-Nc-s3---s2	Noun common singular adessive singular second
-Nc-s3---s2s	Noun common singular adessive singular second singular
-Nc-s3---s2p	Noun common singular adessive singular second plural
-Nc-s3---s3	Noun common singular adessive singular third
-Nc-s3---s3s	Noun common singular adessive singular third singular
-Nc-s3---s3p	Noun common singular adessive singular third plural
-Nc-s3---p1	Noun common singular adessive plural first
-Nc-s3---p1s	Noun common singular adessive plural first singular
-Nc-s3---p1p	Noun common singular adessive plural first plural
-Nc-s3---p2	Noun common singular adessive plural second
-Nc-s3---p2s	Noun common singular adessive plural second singular
-Nc-s3---p2p	Noun common singular adessive plural second plural
-Nc-s3---p3	Noun common singular adessive plural third
-Nc-s3---p3s	Noun common singular adessive plural third singular
-Nc-s3---p3p	Noun common singular adessive plural third plural
-Nc-sb	Noun common singular ablative
-Nc-sb-----s	Noun common singular ablative singular
-Nc-sb-----p	Noun common singular ablative plural
-Nc-sb---s1	Noun common singular ablative singular first
-Nc-sb---s1s	Noun common singular ablative singular first singular
-Nc-sb---s1p	Noun common singular ablative singular first plural
-Nc-sb---s2	Noun common singular ablative singular second
-Nc-sb---s2s	Noun common singular ablative singular second singular
-Nc-sb---s2p	Noun common singular ablative singular second plural
-Nc-sb---s3	Noun common singular ablative singular third
-Nc-sb---s3s	Noun common singular ablative singular third singular
-Nc-sb---s3p	Noun common singular ablative singular third plural
-Nc-sb---p1	Noun common singular ablative plural first
-Nc-sb---p1s	Noun common singular ablative plural first singular
-Nc-sb---p1p	Noun common singular ablative plural first plural
-Nc-sb---p2	Noun common singular ablative plural second
-Nc-sb---p2s	Noun common singular ablative plural second singular
-Nc-sb---p2p	Noun common singular ablative plural second plural
-Nc-sb---p3	Noun common singular ablative plural third
-Nc-sb---p3s	Noun common singular ablative plural third singular
-Nc-sb---p3p	Noun common singular ablative plural third plural
-Nc-s9	Noun common singular terminative
-Nc-s9-----s	Noun common singular terminative singular
-Nc-s9-----p	Noun common singular terminative plural
-Nc-s9---s1	Noun common singular terminative singular first
-Nc-s9---s1s	Noun common singular terminative singular first singular
-Nc-s9---s1p	Noun common singular terminative singular first plural
-Nc-s9---s2	Noun common singular terminative singular second
-Nc-s9---s2s	Noun common singular terminative singular second singular
-Nc-s9---s2p	Noun common singular terminative singular second plural
-Nc-s9---s3	Noun common singular terminative singular third
-Nc-s9---s3s	Noun common singular terminative singular third singular
-Nc-s9---s3p	Noun common singular terminative singular third plural
-Nc-s9---p1	Noun common singular terminative plural first
-Nc-s9---p1s	Noun common singular terminative plural first singular
-Nc-s9---p1p	Noun common singular terminative plural first plural
-Nc-s9---p2	Noun common singular terminative plural second
-Nc-s9---p2s	Noun common singular terminative plural second singular
-Nc-s9---p2p	Noun common singular terminative plural second plural
-Nc-s9---p3	Noun common singular terminative plural third
-Nc-s9---p3s	Noun common singular terminative plural third singular
-Nc-s9---p3p	Noun common singular terminative plural third plural
-Nc-sw	Noun common singular essive
-Nc-sw-----s	Noun common singular essive singular
-Nc-sw-----p	Noun common singular essive plural
-Nc-sw---s1	Noun common singular essive singular first
-Nc-sw---s1s	Noun common singular essive singular first singular
-Nc-sw---s1p	Noun common singular essive singular first plural
-Nc-sw---s2	Noun common singular essive singular second
-Nc-sw---s2s	Noun common singular essive singular second singular
-Nc-sw---s2p	Noun common singular essive singular second plural
-Nc-sw---s3	Noun common singular essive singular third
-Nc-sw---s3s	Noun common singular essive singular third singular
-Nc-sw---s3p	Noun common singular essive singular third plural
-Nc-sw---p1	Noun common singular essive plural first
-Nc-sw---p1s	Noun common singular essive plural first singular
-Nc-sw---p1p	Noun common singular essive plural first plural
-Nc-sw---p2	Noun common singular essive plural second
-Nc-sw---p2s	Noun common singular essive plural second singular
-Nc-sw---p2p	Noun common singular essive plural second plural
-Nc-sw---p3	Noun common singular essive plural third
-Nc-sw---p3s	Noun common singular essive plural third singular
-Nc-sw---p3p	Noun common singular essive plural third plural
-Nc-sm	Noun common singular temporalis
-Nc-sm-----s	Noun common singular temporalis singular
-Nc-sm-----p	Noun common singular temporalis plural
-Nc-sm---s1	Noun common singular temporalis singular first
-Nc-sm---s1s	Noun common singular temporalis singular first singular
-Nc-sm---s1p	Noun common singular temporalis singular first plural
-Nc-sm---s2	Noun common singular temporalis singular second
-Nc-sm---s2s	Noun common singular temporalis singular second singular
-Nc-sm---s2p	Noun common singular temporalis singular second plural
-Nc-sm---s3	Noun common singular temporalis singular third
-Nc-sm---s3s	Noun common singular temporalis singular third singular
-Nc-sm---s3p	Noun common singular temporalis singular third plural
-Nc-sm---p1	Noun common singular temporalis plural first
-Nc-sm---p1s	Noun common singular temporalis plural first singular
-Nc-sm---p1p	Noun common singular temporalis plural first plural
-Nc-sm---p2	Noun common singular temporalis plural second
-Nc-sm---p2s	Noun common singular temporalis plural second singular
-Nc-sm---p2p	Noun common singular temporalis plural second plural
-Nc-sm---p3	Noun common singular temporalis plural third
-Nc-sm---p3s	Noun common singular temporalis plural third singular
-Nc-sm---p3p	Noun common singular temporalis plural third plural
-Nc-sc	Noun common singular causalis
-Nc-sc-----s	Noun common singular causalis singular
-Nc-sc-----p	Noun common singular causalis plural
-Nc-sc---s1	Noun common singular causalis singular first
-Nc-sc---s1s	Noun common singular causalis singular first singular
-Nc-sc---s1p	Noun common singular causalis singular first plural
-Nc-sc---s2	Noun common singular causalis singular second
-Nc-sc---s2s	Noun common singular causalis singular second singular
-Nc-sc---s2p	Noun common singular causalis singular second plural
-Nc-sc---s3	Noun common singular causalis singular third
-Nc-sc---s3s	Noun common singular causalis singular third singular
-Nc-sc---s3p	Noun common singular causalis singular third plural
-Nc-sc---p1	Noun common singular causalis plural first
-Nc-sc---p1s	Noun common singular causalis plural first singular
-Nc-sc---p1p	Noun common singular causalis plural first plural
-Nc-sc---p2	Noun common singular causalis plural second
-Nc-sc---p2s	Noun common singular causalis plural second singular
-Nc-sc---p2p	Noun common singular causalis plural second plural
-Nc-sc---p3	Noun common singular causalis plural third
-Nc-sc---p3s	Noun common singular causalis plural third singular
-Nc-sc---p3p	Noun common singular causalis plural third plural
-Nc-ss	Noun common singular sublative
-Nc-ss-----s	Noun common singular sublative singular
-Nc-ss-----p	Noun common singular sublative plural
-Nc-ss---s1	Noun common singular sublative singular first
-Nc-ss---s1s	Noun common singular sublative singular first singular
-Nc-ss---s1p	Noun common singular sublative singular first plural
-Nc-ss---s2	Noun common singular sublative singular second
-Nc-ss---s2s	Noun common singular sublative singular second singular
-Nc-ss---s2p	Noun common singular sublative singular second plural
-Nc-ss---s3	Noun common singular sublative singular third
-Nc-ss---s3s	Noun common singular sublative singular third singular
-Nc-ss---s3p	Noun common singular sublative singular third plural
-Nc-ss---p1	Noun common singular sublative plural first
-Nc-ss---p1s	Noun common singular sublative plural first singular
-Nc-ss---p1p	Noun common singular sublative plural first plural
-Nc-ss---p2	Noun common singular sublative plural second
-Nc-ss---p2s	Noun common singular sublative plural second singular
-Nc-ss---p2p	Noun common singular sublative plural second plural
-Nc-ss---p3	Noun common singular sublative plural third
-Nc-ss---p3s	Noun common singular sublative plural third singular
-Nc-ss---p3p	Noun common singular sublative plural third plural
-Nc-sh	Noun common singular delative
-Nc-sh-----s	Noun common singular delative singular
-Nc-sh-----p	Noun common singular delative plural
-Nc-sh---s1	Noun common singular delative singular first
-Nc-sh---s1s	Noun common singular delative singular first singular
-Nc-sh---s1p	Noun common singular delative singular first plural
-Nc-sh---s2	Noun common singular delative singular second
-Nc-sh---s2s	Noun common singular delative singular second singular
-Nc-sh---s2p	Noun common singular delative singular second plural
-Nc-sh---s3	Noun common singular delative singular third
-Nc-sh---s3s	Noun common singular delative singular third singular
-Nc-sh---s3p	Noun common singular delative singular third plural
-Nc-sh---p1	Noun common singular delative plural first
-Nc-sh---p1s	Noun common singular delative plural first singular
-Nc-sh---p1p	Noun common singular delative plural first plural
-Nc-sh---p2	Noun common singular delative plural second
-Nc-sh---p2s	Noun common singular delative plural second singular
-Nc-sh---p2p	Noun common singular delative plural second plural
-Nc-sh---p3	Noun common singular delative plural third
-Nc-sh---p3s	Noun common singular delative plural third singular
-Nc-sh---p3p	Noun common singular delative plural third plural
-Nc-sq	Noun common singular sociative
-Nc-sq-----s	Noun common singular sociative singular
-Nc-sq-----p	Noun common singular sociative plural
-Nc-sq---s1	Noun common singular sociative singular first
-Nc-sq---s1s	Noun common singular sociative singular first singular
-Nc-sq---s1p	Noun common singular sociative singular first plural
-Nc-sq---s2	Noun common singular sociative singular second
-Nc-sq---s2s	Noun common singular sociative singular second singular
-Nc-sq---s2p	Noun common singular sociative singular second plural
-Nc-sq---s3	Noun common singular sociative singular third
-Nc-sq---s3s	Noun common singular sociative singular third singular
-Nc-sq---s3p	Noun common singular sociative singular third plural
-Nc-sq---p1	Noun common singular sociative plural first
-Nc-sq---p1s	Noun common singular sociative plural first singular
-Nc-sq---p1p	Noun common singular sociative plural first plural
-Nc-sq---p2	Noun common singular sociative plural second
-Nc-sq---p2s	Noun common singular sociative plural second singular
-Nc-sq---p2p	Noun common singular sociative plural second plural
-Nc-sq---p3	Noun common singular sociative plural third
-Nc-sq---p3s	Noun common singular sociative plural third singular
-Nc-sq---p3p	Noun common singular sociative plural third plural
-Nc-sy	Noun common singular factive
-Nc-sy-----s	Noun common singular factive singular
-Nc-sy-----p	Noun common singular factive plural
-Nc-sy---s1	Noun common singular factive singular first
-Nc-sy---s1s	Noun common singular factive singular first singular
-Nc-sy---s1p	Noun common singular factive singular first plural
-Nc-sy---s2	Noun common singular factive singular second
-Nc-sy---s2s	Noun common singular factive singular second singular
-Nc-sy---s2p	Noun common singular factive singular second plural
-Nc-sy---s3	Noun common singular factive singular third
-Nc-sy---s3s	Noun common singular factive singular third singular
-Nc-sy---s3p	Noun common singular factive singular third plural
-Nc-sy---p1	Noun common singular factive plural first
-Nc-sy---p1s	Noun common singular factive plural first singular
-Nc-sy---p1p	Noun common singular factive plural first plural
-Nc-sy---p2	Noun common singular factive plural second
-Nc-sy---p2s	Noun common singular factive plural second singular
-Nc-sy---p2p	Noun common singular factive plural second plural
-Nc-sy---p3	Noun common singular factive plural third
-Nc-sy---p3s	Noun common singular factive plural third singular
-Nc-sy---p3p	Noun common singular factive plural third plural
-Nc-sp	Noun common singular superessive
-Nc-sp-----s	Noun common singular superessive singular
-Nc-sp-----p	Noun common singular superessive plural
-Nc-sp---s1	Noun common singular superessive singular first
-Nc-sp---s1s	Noun common singular superessive singular first singular
-Nc-sp---s1p	Noun common singular superessive singular first plural
-Nc-sp---s2	Noun common singular superessive singular second
-Nc-sp---s2s	Noun common singular superessive singular second singular
-Nc-sp---s2p	Noun common singular superessive singular second plural
-Nc-sp---s3	Noun common singular superessive singular third
-Nc-sp---s3s	Noun common singular superessive singular third singular
-Nc-sp---s3p	Noun common singular superessive singular third plural
-Nc-sp---p1	Noun common singular superessive plural first
-Nc-sp---p1s	Noun common singular superessive plural first singular
-Nc-sp---p1p	Noun common singular superessive plural first plural
-Nc-sp---p2	Noun common singular superessive plural second
-Nc-sp---p2s	Noun common singular superessive plural second singular
-Nc-sp---p2p	Noun common singular superessive plural second plural
-Nc-sp---p3	Noun common singular superessive plural third
-Nc-sp---p3s	Noun common singular superessive plural third singular
-Nc-sp---p3p	Noun common singular superessive plural third plural
-Nc-su	Noun common singular distributive
-Nc-su-----s	Noun common singular distributive singular
-Nc-su-----p	Noun common singular distributive plural
-Nc-su---s1	Noun common singular distributive singular first
-Nc-su---s1s	Noun common singular distributive singular first singular
-Nc-su---s1p	Noun common singular distributive singular first plural
-Nc-su---s2	Noun common singular distributive singular second
-Nc-su---s2s	Noun common singular distributive singular second singular
-Nc-su---s2p	Noun common singular distributive singular second plural
-Nc-su---s3	Noun common singular distributive singular third
-Nc-su---s3s	Noun common singular distributive singular third singular
-Nc-su---s3p	Noun common singular distributive singular third plural
-Nc-su---p1	Noun common singular distributive plural first
-Nc-su---p1s	Noun common singular distributive plural first singular
-Nc-su---p1p	Noun common singular distributive plural first plural
-Nc-su---p2	Noun common singular distributive plural second
-Nc-su---p2s	Noun common singular distributive plural second singular
-Nc-su---p2p	Noun common singular distributive plural second plural
-Nc-su---p3	Noun common singular distributive plural third
-Nc-su---p3s	Noun common singular distributive plural third singular
-Nc-su---p3p	Noun common singular distributive plural third plural
-Nc-sf	Noun common singular essive-formal
-Nc-sf-----s	Noun common singular essive-formal singular
-Nc-sf-----p	Noun common singular essive-formal plural
-Nc-sf---s1	Noun common singular essive-formal singular first
-Nc-sf---s1s	Noun common singular essive-formal singular first singular
-Nc-sf---s1p	Noun common singular essive-formal singular first plural
-Nc-sf---s2	Noun common singular essive-formal singular second
-Nc-sf---s2s	Noun common singular essive-formal singular second singular
-Nc-sf---s2p	Noun common singular essive-formal singular second plural
-Nc-sf---s3	Noun common singular essive-formal singular third
-Nc-sf---s3s	Noun common singular essive-formal singular third singular
-Nc-sf---s3p	Noun common singular essive-formal singular third plural
-Nc-sf---p1	Noun common singular essive-formal plural first
-Nc-sf---p1s	Noun common singular essive-formal plural first singular
-Nc-sf---p1p	Noun common singular essive-formal plural first plural
-Nc-sf---p2	Noun common singular essive-formal plural second
-Nc-sf---p2s	Noun common singular essive-formal plural second singular
-Nc-sf---p2p	Noun common singular essive-formal plural second plural
-Nc-sf---p3	Noun common singular essive-formal plural third
-Nc-sf---p3s	Noun common singular essive-formal plural third singular
-Nc-sf---p3p	Noun common singular essive-formal plural third plural
-Nc-pn	Noun common plural nominative
-Nc-pn-----s	Noun common plural nominative singular
-Nc-pn-----p	Noun common plural nominative plural
-Nc-pn---s1	Noun common plural nominative singular first
-Nc-pn---s1s	Noun common plural nominative singular first singular
-Nc-pn---s1p	Noun common plural nominative singular first plural
-Nc-pn---s2	Noun common plural nominative singular second
-Nc-pn---s2s	Noun common plural nominative singular second singular
-Nc-pn---s2p	Noun common plural nominative singular second plural
-Nc-pn---s3	Noun common plural nominative singular third
-Nc-pn---s3s	Noun common plural nominative singular third singular
-Nc-pn---s3p	Noun common plural nominative singular third plural
-Nc-pn---p1	Noun common plural nominative plural first
-Nc-pn---p1s	Noun common plural nominative plural first singular
-Nc-pn---p1p	Noun common plural nominative plural first plural
-Nc-pn---p2	Noun common plural nominative plural second
-Nc-pn---p2s	Noun common plural nominative plural second singular
-Nc-pn---p2p	Noun common plural nominative plural second plural
-Nc-pn---p3	Noun common plural nominative plural third
-Nc-pn---p3s	Noun common plural nominative plural third singular
-Nc-pn---p3p	Noun common plural nominative plural third plural
-Nc-pg	Noun common plural genitive
-Nc-pg-----s	Noun common plural genitive singular
-Nc-pg-----p	Noun common plural genitive plural
-Nc-pg---s1	Noun common plural genitive singular first
-Nc-pg---s1s	Noun common plural genitive singular first singular
-Nc-pg---s1p	Noun common plural genitive singular first plural
-Nc-pg---s2	Noun common plural genitive singular second
-Nc-pg---s2s	Noun common plural genitive singular second singular
-Nc-pg---s2p	Noun common plural genitive singular second plural
-Nc-pg---s3	Noun common plural genitive singular third
-Nc-pg---s3s	Noun common plural genitive singular third singular
-Nc-pg---s3p	Noun common plural genitive singular third plural
-Nc-pg---p1	Noun common plural genitive plural first
-Nc-pg---p1s	Noun common plural genitive plural first singular
-Nc-pg---p1p	Noun common plural genitive plural first plural
-Nc-pg---p2	Noun common plural genitive plural second
-Nc-pg---p2s	Noun common plural genitive plural second singular
-Nc-pg---p2p	Noun common plural genitive plural second plural
-Nc-pg---p3	Noun common plural genitive plural third
-Nc-pg---p3s	Noun common plural genitive plural third singular
-Nc-pg---p3p	Noun common plural genitive plural third plural
-Nc-pd	Noun common plural dative
-Nc-pd-----s	Noun common plural dative singular
-Nc-pd-----p	Noun common plural dative plural
-Nc-pd---s1	Noun common plural dative singular first
-Nc-pd---s1s	Noun common plural dative singular first singular
-Nc-pd---s1p	Noun common plural dative singular first plural
-Nc-pd---s2	Noun common plural dative singular second
-Nc-pd---s2s	Noun common plural dative singular second singular
-Nc-pd---s2p	Noun common plural dative singular second plural
-Nc-pd---s3	Noun common plural dative singular third
-Nc-pd---s3s	Noun common plural dative singular third singular
-Nc-pd---s3p	Noun common plural dative singular third plural
-Nc-pd---p1	Noun common plural dative plural first
-Nc-pd---p1s	Noun common plural dative plural first singular
-Nc-pd---p1p	Noun common plural dative plural first plural
-Nc-pd---p2	Noun common plural dative plural second
-Nc-pd---p2s	Noun common plural dative plural second singular
-Nc-pd---p2p	Noun common plural dative plural second plural
-Nc-pd---p3	Noun common plural dative plural third
-Nc-pd---p3s	Noun common plural dative plural third singular
-Nc-pd---p3p	Noun common plural dative plural third plural
-Nc-pa	Noun common plural accusative
-Nc-pa-----s	Noun common plural accusative singular
-Nc-pa-----p	Noun common plural accusative plural
-Nc-pa---s1	Noun common plural accusative singular first
-Nc-pa---s1s	Noun common plural accusative singular first singular
-Nc-pa---s1p	Noun common plural accusative singular first plural
-Nc-pa---s2	Noun common plural accusative singular second
-Nc-pa---s2s	Noun common plural accusative singular second singular
-Nc-pa---s2p	Noun common plural accusative singular second plural
-Nc-pa---s3	Noun common plural accusative singular third
-Nc-pa---s3s	Noun common plural accusative singular third singular
-Nc-pa---s3p	Noun common plural accusative singular third plural
-Nc-pa---p1	Noun common plural accusative plural first
-Nc-pa---p1s	Noun common plural accusative plural first singular
-Nc-pa---p1p	Noun common plural accusative plural first plural
-Nc-pa---p2	Noun common plural accusative plural second
-Nc-pa---p2s	Noun common plural accusative plural second singular
-Nc-pa---p2p	Noun common plural accusative plural second plural
-Nc-pa---p3	Noun common plural accusative plural third
-Nc-pa---p3s	Noun common plural accusative plural third singular
-Nc-pa---p3p	Noun common plural accusative plural third plural
-Nc-pi	Noun common plural instrumental
-Nc-pi-----s	Noun common plural instrumental singular
-Nc-pi-----p	Noun common plural instrumental plural
-Nc-pi---s1	Noun common plural instrumental singular first
-Nc-pi---s1s	Noun common plural instrumental singular first singular
-Nc-pi---s1p	Noun common plural instrumental singular first plural
-Nc-pi---s2	Noun common plural instrumental singular second
-Nc-pi---s2s	Noun common plural instrumental singular second singular
-Nc-pi---s2p	Noun common plural instrumental singular second plural
-Nc-pi---s3	Noun common plural instrumental singular third
-Nc-pi---s3s	Noun common plural instrumental singular third singular
-Nc-pi---s3p	Noun common plural instrumental singular third plural
-Nc-pi---p1	Noun common plural instrumental plural first
-Nc-pi---p1s	Noun common plural instrumental plural first singular
-Nc-pi---p1p	Noun common plural instrumental plural first plural
-Nc-pi---p2	Noun common plural instrumental plural second
-Nc-pi---p2s	Noun common plural instrumental plural second singular
-Nc-pi---p2p	Noun common plural instrumental plural second plural
-Nc-pi---p3	Noun common plural instrumental plural third
-Nc-pi---p3s	Noun common plural instrumental plural third singular
-Nc-pi---p3p	Noun common plural instrumental plural third plural
-Nc-px	Noun common plural illative
-Nc-px-----s	Noun common plural illative singular
-Nc-px-----p	Noun common plural illative plural
-Nc-px---s1	Noun common plural illative singular first
-Nc-px---s1s	Noun common plural illative singular first singular
-Nc-px---s1p	Noun common plural illative singular first plural
-Nc-px---s2	Noun common plural illative singular second
-Nc-px---s2s	Noun common plural illative singular second singular
-Nc-px---s2p	Noun common plural illative singular second plural
-Nc-px---s3	Noun common plural illative singular third
-Nc-px---s3s	Noun common plural illative singular third singular
-Nc-px---s3p	Noun common plural illative singular third plural
-Nc-px---p1	Noun common plural illative plural first
-Nc-px---p1s	Noun common plural illative plural first singular
-Nc-px---p1p	Noun common plural illative plural first plural
-Nc-px---p2	Noun common plural illative plural second
-Nc-px---p2s	Noun common plural illative plural second singular
-Nc-px---p2p	Noun common plural illative plural second plural
-Nc-px---p3	Noun common plural illative plural third
-Nc-px---p3s	Noun common plural illative plural third singular
-Nc-px---p3p	Noun common plural illative plural third plural
-Nc-p2	Noun common plural inessive
-Nc-p2-----s	Noun common plural inessive singular
-Nc-p2-----p	Noun common plural inessive plural
-Nc-p2---s1	Noun common plural inessive singular first
-Nc-p2---s1s	Noun common plural inessive singular first singular
-Nc-p2---s1p	Noun common plural inessive singular first plural
-Nc-p2---s2	Noun common plural inessive singular second
-Nc-p2---s2s	Noun common plural inessive singular second singular
-Nc-p2---s2p	Noun common plural inessive singular second plural
-Nc-p2---s3	Noun common plural inessive singular third
-Nc-p2---s3s	Noun common plural inessive singular third singular
-Nc-p2---s3p	Noun common plural inessive singular third plural
-Nc-p2---p1	Noun common plural inessive plural first
-Nc-p2---p1s	Noun common plural inessive plural first singular
-Nc-p2---p1p	Noun common plural inessive plural first plural
-Nc-p2---p2	Noun common plural inessive plural second
-Nc-p2---p2s	Noun common plural inessive plural second singular
-Nc-p2---p2p	Noun common plural inessive plural second plural
-Nc-p2---p3	Noun common plural inessive plural third
-Nc-p2---p3s	Noun common plural inessive plural third singular
-Nc-p2---p3p	Noun common plural inessive plural third plural
-Nc-pe	Noun common plural elative
-Nc-pe-----s	Noun common plural elative singular
-Nc-pe-----p	Noun common plural elative plural
-Nc-pe---s1	Noun common plural elative singular first
-Nc-pe---s1s	Noun common plural elative singular first singular
-Nc-pe---s1p	Noun common plural elative singular first plural
-Nc-pe---s2	Noun common plural elative singular second
-Nc-pe---s2s	Noun common plural elative singular second singular
-Nc-pe---s2p	Noun common plural elative singular second plural
-Nc-pe---s3	Noun common plural elative singular third
-Nc-pe---s3s	Noun common plural elative singular third singular
-Nc-pe---s3p	Noun common plural elative singular third plural
-Nc-pe---p1	Noun common plural elative plural first
-Nc-pe---p1s	Noun common plural elative plural first singular
-Nc-pe---p1p	Noun common plural elative plural first plural
-Nc-pe---p2	Noun common plural elative plural second
-Nc-pe---p2s	Noun common plural elative plural second singular
-Nc-pe---p2p	Noun common plural elative plural second plural
-Nc-pe---p3	Noun common plural elative plural third
-Nc-pe---p3s	Noun common plural elative plural third singular
-Nc-pe---p3p	Noun common plural elative plural third plural
-Nc-pt	Noun common plural allative
-Nc-pt-----s	Noun common plural allative singular
-Nc-pt-----p	Noun common plural allative plural
-Nc-pt---s1	Noun common plural allative singular first
-Nc-pt---s1s	Noun common plural allative singular first singular
-Nc-pt---s1p	Noun common plural allative singular first plural
-Nc-pt---s2	Noun common plural allative singular second
-Nc-pt---s2s	Noun common plural allative singular second singular
-Nc-pt---s2p	Noun common plural allative singular second plural
-Nc-pt---s3	Noun common plural allative singular third
-Nc-pt---s3s	Noun common plural allative singular third singular
-Nc-pt---s3p	Noun common plural allative singular third plural
-Nc-pt---p1	Noun common plural allative plural first
-Nc-pt---p1s	Noun common plural allative plural first singular
-Nc-pt---p1p	Noun common plural allative plural first plural
-Nc-pt---p2	Noun common plural allative plural second
-Nc-pt---p2s	Noun common plural allative plural second singular
-Nc-pt---p2p	Noun common plural allative plural second plural
-Nc-pt---p3	Noun common plural allative plural third
-Nc-pt---p3s	Noun common plural allative plural third singular
-Nc-pt---p3p	Noun common plural allative plural third plural
-Nc-p3	Noun common plural adessive
-Nc-p3-----s	Noun common plural adessive singular
-Nc-p3-----p	Noun common plural adessive plural
-Nc-p3---s1	Noun common plural adessive singular first
-Nc-p3---s1s	Noun common plural adessive singular first singular
-Nc-p3---s1p	Noun common plural adessive singular first plural
-Nc-p3---s2	Noun common plural adessive singular second
-Nc-p3---s2s	Noun common plural adessive singular second singular
-Nc-p3---s2p	Noun common plural adessive singular second plural
-Nc-p3---s3	Noun common plural adessive singular third
-Nc-p3---s3s	Noun common plural adessive singular third singular
-Nc-p3---s3p	Noun common plural adessive singular third plural
-Nc-p3---p1	Noun common plural adessive plural first
-Nc-p3---p1s	Noun common plural adessive plural first singular
-Nc-p3---p1p	Noun common plural adessive plural first plural
-Nc-p3---p2	Noun common plural adessive plural second
-Nc-p3---p2s	Noun common plural adessive plural second singular
-Nc-p3---p2p	Noun common plural adessive plural second plural
-Nc-p3---p3	Noun common plural adessive plural third
-Nc-p3---p3s	Noun common plural adessive plural third singular
-Nc-p3---p3p	Noun common plural adessive plural third plural
-Nc-pb	Noun common plural ablative
-Nc-pb-----s	Noun common plural ablative singular
-Nc-pb-----p	Noun common plural ablative plural
-Nc-pb---s1	Noun common plural ablative singular first
-Nc-pb---s1s	Noun common plural ablative singular first singular
-Nc-pb---s1p	Noun common plural ablative singular first plural
-Nc-pb---s2	Noun common plural ablative singular second
-Nc-pb---s2s	Noun common plural ablative singular second singular
-Nc-pb---s2p	Noun common plural ablative singular second plural
-Nc-pb---s3	Noun common plural ablative singular third
-Nc-pb---s3s	Noun common plural ablative singular third singular
-Nc-pb---s3p	Noun common plural ablative singular third plural
-Nc-pb---p1	Noun common plural ablative plural first
-Nc-pb---p1s	Noun common plural ablative plural first singular
-Nc-pb---p1p	Noun common plural ablative plural first plural
-Nc-pb---p2	Noun common plural ablative plural second
-Nc-pb---p2s	Noun common plural ablative plural second singular
-Nc-pb---p2p	Noun common plural ablative plural second plural
-Nc-pb---p3	Noun common plural ablative plural third
-Nc-pb---p3s	Noun common plural ablative plural third singular
-Nc-pb---p3p	Noun common plural ablative plural third plural
-Nc-p9	Noun common plural terminative
-Nc-p9-----s	Noun common plural terminative singular
-Nc-p9-----p	Noun common plural terminative plural
-Nc-p9---s1	Noun common plural terminative singular first
-Nc-p9---s1s	Noun common plural terminative singular first singular
-Nc-p9---s1p	Noun common plural terminative singular first plural
-Nc-p9---s2	Noun common plural terminative singular second
-Nc-p9---s2s	Noun common plural terminative singular second singular
-Nc-p9---s2p	Noun common plural terminative singular second plural
-Nc-p9---s3	Noun common plural terminative singular third
-Nc-p9---s3s	Noun common plural terminative singular third singular
-Nc-p9---s3p	Noun common plural terminative singular third plural
-Nc-p9---p1	Noun common plural terminative plural first
-Nc-p9---p1s	Noun common plural terminative plural first singular
-Nc-p9---p1p	Noun common plural terminative plural first plural
-Nc-p9---p2	Noun common plural terminative plural second
-Nc-p9---p2s	Noun common plural terminative plural second singular
-Nc-p9---p2p	Noun common plural terminative plural second plural
-Nc-p9---p3	Noun common plural terminative plural third
-Nc-p9---p3s	Noun common plural terminative plural third singular
-Nc-p9---p3p	Noun common plural terminative plural third plural
-Nc-pw	Noun common plural essive
-Nc-pw-----s	Noun common plural essive singular
-Nc-pw-----p	Noun common plural essive plural
-Nc-pw---s1	Noun common plural essive singular first
-Nc-pw---s1s	Noun common plural essive singular first singular
-Nc-pw---s1p	Noun common plural essive singular first plural
-Nc-pw---s2	Noun common plural essive singular second
-Nc-pw---s2s	Noun common plural essive singular second singular
-Nc-pw---s2p	Noun common plural essive singular second plural
-Nc-pw---s3	Noun common plural essive singular third
-Nc-pw---s3s	Noun common plural essive singular third singular
-Nc-pw---s3p	Noun common plural essive singular third plural
-Nc-pw---p1	Noun common plural essive plural first
-Nc-pw---p1s	Noun common plural essive plural first singular
-Nc-pw---p1p	Noun common plural essive plural first plural
-Nc-pw---p2	Noun common plural essive plural second
-Nc-pw---p2s	Noun common plural essive plural second singular
-Nc-pw---p2p	Noun common plural essive plural second plural
-Nc-pw---p3	Noun common plural essive plural third
-Nc-pw---p3s	Noun common plural essive plural third singular
-Nc-pw---p3p	Noun common plural essive plural third plural
-Nc-pm	Noun common plural temporalis
-Nc-pm-----s	Noun common plural temporalis singular
-Nc-pm-----p	Noun common plural temporalis plural
-Nc-pm---s1	Noun common plural temporalis singular first
-Nc-pm---s1s	Noun common plural temporalis singular first singular
-Nc-pm---s1p	Noun common plural temporalis singular first plural
-Nc-pm---s2	Noun common plural temporalis singular second
-Nc-pm---s2s	Noun common plural temporalis singular second singular
-Nc-pm---s2p	Noun common plural temporalis singular second plural
-Nc-pm---s3	Noun common plural temporalis singular third
-Nc-pm---s3s	Noun common plural temporalis singular third singular
-Nc-pm---s3p	Noun common plural temporalis singular third plural
-Nc-pm---p1	Noun common plural temporalis plural first
-Nc-pm---p1s	Noun common plural temporalis plural first singular
-Nc-pm---p1p	Noun common plural temporalis plural first plural
-Nc-pm---p2	Noun common plural temporalis plural second
-Nc-pm---p2s	Noun common plural temporalis plural second singular
-Nc-pm---p2p	Noun common plural temporalis plural second plural
-Nc-pm---p3	Noun common plural temporalis plural third
-Nc-pm---p3s	Noun common plural temporalis plural third singular
-Nc-pm---p3p	Noun common plural temporalis plural third plural
-Nc-pc	Noun common plural causalis
-Nc-pc-----s	Noun common plural causalis singular
-Nc-pc-----p	Noun common plural causalis plural
-Nc-pc---s1	Noun common plural causalis singular first
-Nc-pc---s1s	Noun common plural causalis singular first singular
-Nc-pc---s1p	Noun common plural causalis singular first plural
-Nc-pc---s2	Noun common plural causalis singular second
-Nc-pc---s2s	Noun common plural causalis singular second singular
-Nc-pc---s2p	Noun common plural causalis singular second plural
-Nc-pc---s3	Noun common plural causalis singular third
-Nc-pc---s3s	Noun common plural causalis singular third singular
-Nc-pc---s3p	Noun common plural causalis singular third plural
-Nc-pc---p1	Noun common plural causalis plural first
-Nc-pc---p1s	Noun common plural causalis plural first singular
-Nc-pc---p1p	Noun common plural causalis plural first plural
-Nc-pc---p2	Noun common plural causalis plural second
-Nc-pc---p2s	Noun common plural causalis plural second singular
-Nc-pc---p2p	Noun common plural causalis plural second plural
-Nc-pc---p3	Noun common plural causalis plural third
-Nc-pc---p3s	Noun common plural causalis plural third singular
-Nc-pc---p3p	Noun common plural causalis plural third plural
-Nc-ps	Noun common plural sublative
-Nc-ps-----s	Noun common plural sublative singular
-Nc-ps-----p	Noun common plural sublative plural
-Nc-ps---s1	Noun common plural sublative singular first
-Nc-ps---s1s	Noun common plural sublative singular first singular
-Nc-ps---s1p	Noun common plural sublative singular first plural
-Nc-ps---s2	Noun common plural sublative singular second
-Nc-ps---s2s	Noun common plural sublative singular second singular
-Nc-ps---s2p	Noun common plural sublative singular second plural
-Nc-ps---s3	Noun common plural sublative singular third
-Nc-ps---s3s	Noun common plural sublative singular third singular
-Nc-ps---s3p	Noun common plural sublative singular third plural
-Nc-ps---p1	Noun common plural sublative plural first
-Nc-ps---p1s	Noun common plural sublative plural first singular
-Nc-ps---p1p	Noun common plural sublative plural first plural
-Nc-ps---p2	Noun common plural sublative plural second
-Nc-ps---p2s	Noun common plural sublative plural second singular
-Nc-ps---p2p	Noun common plural sublative plural second plural
-Nc-ps---p3	Noun common plural sublative plural third
-Nc-ps---p3s	Noun common plural sublative plural third singular
-Nc-ps---p3p	Noun common plural sublative plural third plural
-Nc-ph	Noun common plural delative
-Nc-ph-----s	Noun common plural delative singular
-Nc-ph-----p	Noun common plural delative plural
-Nc-ph---s1	Noun common plural delative singular first
-Nc-ph---s1s	Noun common plural delative singular first singular
-Nc-ph---s1p	Noun common plural delative singular first plural
-Nc-ph---s2	Noun common plural delative singular second
-Nc-ph---s2s	Noun common plural delative singular second singular
-Nc-ph---s2p	Noun common plural delative singular second plural
-Nc-ph---s3	Noun common plural delative singular third
-Nc-ph---s3s	Noun common plural delative singular third singular
-Nc-ph---s3p	Noun common plural delative singular third plural
-Nc-ph---p1	Noun common plural delative plural first
-Nc-ph---p1s	Noun common plural delative plural first singular
-Nc-ph---p1p	Noun common plural delative plural first plural
-Nc-ph---p2	Noun common plural delative plural second
-Nc-ph---p2s	Noun common plural delative plural second singular
-Nc-ph---p2p	Noun common plural delative plural second plural
-Nc-ph---p3	Noun common plural delative plural third
-Nc-ph---p3s	Noun common plural delative plural third singular
-Nc-ph---p3p	Noun common plural delative plural third plural
-Nc-pq	Noun common plural sociative
-Nc-pq-----s	Noun common plural sociative singular
-Nc-pq-----p	Noun common plural sociative plural
-Nc-pq---s1	Noun common plural sociative singular first
-Nc-pq---s1s	Noun common plural sociative singular first singular
-Nc-pq---s1p	Noun common plural sociative singular first plural
-Nc-pq---s2	Noun common plural sociative singular second
-Nc-pq---s2s	Noun common plural sociative singular second singular
-Nc-pq---s2p	Noun common plural sociative singular second plural
-Nc-pq---s3	Noun common plural sociative singular third
-Nc-pq---s3s	Noun common plural sociative singular third singular
-Nc-pq---s3p	Noun common plural sociative singular third plural
-Nc-pq---p1	Noun common plural sociative plural first
-Nc-pq---p1s	Noun common plural sociative plural first singular
-Nc-pq---p1p	Noun common plural sociative plural first plural
-Nc-pq---p2	Noun common plural sociative plural second
-Nc-pq---p2s	Noun common plural sociative plural second singular
-Nc-pq---p2p	Noun common plural sociative plural second plural
-Nc-pq---p3	Noun common plural sociative plural third
-Nc-pq---p3s	Noun common plural sociative plural third singular
-Nc-pq---p3p	Noun common plural sociative plural third plural
-Nc-py	Noun common plural factive
-Nc-py-----s	Noun common plural factive singular
-Nc-py-----p	Noun common plural factive plural
-Nc-py---s1	Noun common plural factive singular first
-Nc-py---s1s	Noun common plural factive singular first singular
-Nc-py---s1p	Noun common plural factive singular first plural
-Nc-py---s2	Noun common plural factive singular second
-Nc-py---s2s	Noun common plural factive singular second singular
-Nc-py---s2p	Noun common plural factive singular second plural
-Nc-py---s3	Noun common plural factive singular third
-Nc-py---s3s	Noun common plural factive singular third singular
-Nc-py---s3p	Noun common plural factive singular third plural
-Nc-py---p1	Noun common plural factive plural first
-Nc-py---p1s	Noun common plural factive plural first singular
-Nc-py---p1p	Noun common plural factive plural first plural
-Nc-py---p2	Noun common plural factive plural second
-Nc-py---p2s	Noun common plural factive plural second singular
-Nc-py---p2p	Noun common plural factive plural second plural
-Nc-py---p3	Noun common plural factive plural third
-Nc-py---p3s	Noun common plural factive plural third singular
-Nc-py---p3p	Noun common plural factive plural third plural
-Nc-pp	Noun common plural superessive
-Nc-pp-----s	Noun common plural superessive singular
-Nc-pp-----p	Noun common plural superessive plural
-Nc-pp---s1	Noun common plural superessive singular first
-Nc-pp---s1s	Noun common plural superessive singular first singular
-Nc-pp---s1p	Noun common plural superessive singular first plural
-Nc-pp---s2	Noun common plural superessive singular second
-Nc-pp---s2s	Noun common plural superessive singular second singular
-Nc-pp---s2p	Noun common plural superessive singular second plural
-Nc-pp---s3	Noun common plural superessive singular third
-Nc-pp---s3s	Noun common plural superessive singular third singular
-Nc-pp---s3p	Noun common plural superessive singular third plural
-Nc-pp---p1	Noun common plural superessive plural first
-Nc-pp---p1s	Noun common plural superessive plural first singular
-Nc-pp---p1p	Noun common plural superessive plural first plural
-Nc-pp---p2	Noun common plural superessive plural second
-Nc-pp---p2s	Noun common plural superessive plural second singular
-Nc-pp---p2p	Noun common plural superessive plural second plural
-Nc-pp---p3	Noun common plural superessive plural third
-Nc-pp---p3s	Noun common plural superessive plural third singular
-Nc-pp---p3p	Noun common plural superessive plural third plural
-Nc-pu	Noun common plural distributive
-Nc-pu-----s	Noun common plural distributive singular
-Nc-pu-----p	Noun common plural distributive plural
-Nc-pu---s1	Noun common plural distributive singular first
-Nc-pu---s1s	Noun common plural distributive singular first singular
-Nc-pu---s1p	Noun common plural distributive singular first plural
-Nc-pu---s2	Noun common plural distributive singular second
-Nc-pu---s2s	Noun common plural distributive singular second singular
-Nc-pu---s2p	Noun common plural distributive singular second plural
-Nc-pu---s3	Noun common plural distributive singular third
-Nc-pu---s3s	Noun common plural distributive singular third singular
-Nc-pu---s3p	Noun common plural distributive singular third plural
-Nc-pu---p1	Noun common plural distributive plural first
-Nc-pu---p1s	Noun common plural distributive plural first singular
-Nc-pu---p1p	Noun common plural distributive plural first plural
-Nc-pu---p2	Noun common plural distributive plural second
-Nc-pu---p2s	Noun common plural distributive plural second singular
-Nc-pu---p2p	Noun common plural distributive plural second plural
-Nc-pu---p3	Noun common plural distributive plural third
-Nc-pu---p3s	Noun common plural distributive plural third singular
-Nc-pu---p3p	Noun common plural distributive plural third plural
-Nc-pf	Noun common plural essive-formal
-Nc-pf-----s	Noun common plural essive-formal singular
-Nc-pf-----p	Noun common plural essive-formal plural
-Nc-pf---s1	Noun common plural essive-formal singular first
-Nc-pf---s1s	Noun common plural essive-formal singular first singular
-Nc-pf---s1p	Noun common plural essive-formal singular first plural
-Nc-pf---s2	Noun common plural essive-formal singular second
-Nc-pf---s2s	Noun common plural essive-formal singular second singular
-Nc-pf---s2p	Noun common plural essive-formal singular second plural
-Nc-pf---s3	Noun common plural essive-formal singular third
-Nc-pf---s3s	Noun common plural essive-formal singular third singular
-Nc-pf---s3p	Noun common plural essive-formal singular third plural
-Nc-pf---p1	Noun common plural essive-formal plural first
-Nc-pf---p1s	Noun common plural essive-formal plural first singular
-Nc-pf---p1p	Noun common plural essive-formal plural first plural
-Nc-pf---p2	Noun common plural essive-formal plural second
-Nc-pf---p2s	Noun common plural essive-formal plural second singular
-Nc-pf---p2p	Noun common plural essive-formal plural second plural
-Nc-pf---p3	Noun common plural essive-formal plural third
-Nc-pf---p3s	Noun common plural essive-formal plural third singular
-Nc-pf---p3p	Noun common plural essive-formal plural third plural
+Nn-sn	Noun common singular nominative
+Nn-sn-----s	Noun common singular nominative singular
+Nn-sn-----p	Noun common singular nominative plural
+Nn-sn---s1	Noun common singular nominative singular first
+Nn-sn---s1s	Noun common singular nominative singular first singular
+Nn-sn---s1p	Noun common singular nominative singular first plural
+Nn-sn---s2	Noun common singular nominative singular second
+Nn-sn---s2s	Noun common singular nominative singular second singular
+Nn-sn---s2p	Noun common singular nominative singular second plural
+Nn-sn---s3	Noun common singular nominative singular third
+Nn-sn---s3s	Noun common singular nominative singular third singular
+Nn-sn---s3p	Noun common singular nominative singular third plural
+Nn-sn---p1	Noun common singular nominative plural first
+Nn-sn---p1s	Noun common singular nominative plural first singular
+Nn-sn---p1p	Noun common singular nominative plural first plural
+Nn-sn---p2	Noun common singular nominative plural second
+Nn-sn---p2s	Noun common singular nominative plural second singular
+Nn-sn---p2p	Noun common singular nominative plural second plural
+Nn-sn---p3	Noun common singular nominative plural third
+Nn-sn---p3s	Noun common singular nominative plural third singular
+Nn-sn---p3p	Noun common singular nominative plural third plural
+Nn-sg	Noun common singular genitive
+Nn-sg-----s	Noun common singular genitive singular
+Nn-sg-----p	Noun common singular genitive plural
+Nn-sg---s1	Noun common singular genitive singular first
+Nn-sg---s1s	Noun common singular genitive singular first singular
+Nn-sg---s1p	Noun common singular genitive singular first plural
+Nn-sg---s2	Noun common singular genitive singular second
+Nn-sg---s2s	Noun common singular genitive singular second singular
+Nn-sg---s2p	Noun common singular genitive singular second plural
+Nn-sg---s3	Noun common singular genitive singular third
+Nn-sg---s3s	Noun common singular genitive singular third singular
+Nn-sg---s3p	Noun common singular genitive singular third plural
+Nn-sg---p1	Noun common singular genitive plural first
+Nn-sg---p1s	Noun common singular genitive plural first singular
+Nn-sg---p1p	Noun common singular genitive plural first plural
+Nn-sg---p2	Noun common singular genitive plural second
+Nn-sg---p2s	Noun common singular genitive plural second singular
+Nn-sg---p2p	Noun common singular genitive plural second plural
+Nn-sg---p3	Noun common singular genitive plural third
+Nn-sg---p3s	Noun common singular genitive plural third singular
+Nn-sg---p3p	Noun common singular genitive plural third plural
+Nn-sd	Noun common singular dative
+Nn-sd-----s	Noun common singular dative singular
+Nn-sd-----p	Noun common singular dative plural
+Nn-sd---s1	Noun common singular dative singular first
+Nn-sd---s1s	Noun common singular dative singular first singular
+Nn-sd---s1p	Noun common singular dative singular first plural
+Nn-sd---s2	Noun common singular dative singular second
+Nn-sd---s2s	Noun common singular dative singular second singular
+Nn-sd---s2p	Noun common singular dative singular second plural
+Nn-sd---s3	Noun common singular dative singular third
+Nn-sd---s3s	Noun common singular dative singular third singular
+Nn-sd---s3p	Noun common singular dative singular third plural
+Nn-sd---p1	Noun common singular dative plural first
+Nn-sd---p1s	Noun common singular dative plural first singular
+Nn-sd---p1p	Noun common singular dative plural first plural
+Nn-sd---p2	Noun common singular dative plural second
+Nn-sd---p2s	Noun common singular dative plural second singular
+Nn-sd---p2p	Noun common singular dative plural second plural
+Nn-sd---p3	Noun common singular dative plural third
+Nn-sd---p3s	Noun common singular dative plural third singular
+Nn-sd---p3p	Noun common singular dative plural third plural
+Nn-sa	Noun common singular accusative
+Nn-sa-----s	Noun common singular accusative singular
+Nn-sa-----p	Noun common singular accusative plural
+Nn-sa---s1	Noun common singular accusative singular first
+Nn-sa---s1s	Noun common singular accusative singular first singular
+Nn-sa---s1p	Noun common singular accusative singular first plural
+Nn-sa---s2	Noun common singular accusative singular second
+Nn-sa---s2s	Noun common singular accusative singular second singular
+Nn-sa---s2p	Noun common singular accusative singular second plural
+Nn-sa---s3	Noun common singular accusative singular third
+Nn-sa---s3s	Noun common singular accusative singular third singular
+Nn-sa---s3p	Noun common singular accusative singular third plural
+Nn-sa---p1	Noun common singular accusative plural first
+Nn-sa---p1s	Noun common singular accusative plural first singular
+Nn-sa---p1p	Noun common singular accusative plural first plural
+Nn-sa---p2	Noun common singular accusative plural second
+Nn-sa---p2s	Noun common singular accusative plural second singular
+Nn-sa---p2p	Noun common singular accusative plural second plural
+Nn-sa---p3	Noun common singular accusative plural third
+Nn-sa---p3s	Noun common singular accusative plural third singular
+Nn-sa---p3p	Noun common singular accusative plural third plural
+Nn-si	Noun common singular instrumental
+Nn-si-----s	Noun common singular instrumental singular
+Nn-si-----p	Noun common singular instrumental plural
+Nn-si---s1	Noun common singular instrumental singular first
+Nn-si---s1s	Noun common singular instrumental singular first singular
+Nn-si---s1p	Noun common singular instrumental singular first plural
+Nn-si---s2	Noun common singular instrumental singular second
+Nn-si---s2s	Noun common singular instrumental singular second singular
+Nn-si---s2p	Noun common singular instrumental singular second plural
+Nn-si---s3	Noun common singular instrumental singular third
+Nn-si---s3s	Noun common singular instrumental singular third singular
+Nn-si---s3p	Noun common singular instrumental singular third plural
+Nn-si---p1	Noun common singular instrumental plural first
+Nn-si---p1s	Noun common singular instrumental plural first singular
+Nn-si---p1p	Noun common singular instrumental plural first plural
+Nn-si---p2	Noun common singular instrumental plural second
+Nn-si---p2s	Noun common singular instrumental plural second singular
+Nn-si---p2p	Noun common singular instrumental plural second plural
+Nn-si---p3	Noun common singular instrumental plural third
+Nn-si---p3s	Noun common singular instrumental plural third singular
+Nn-si---p3p	Noun common singular instrumental plural third plural
+Nn-sx	Noun common singular illative
+Nn-sx-----s	Noun common singular illative singular
+Nn-sx-----p	Noun common singular illative plural
+Nn-sx---s1	Noun common singular illative singular first
+Nn-sx---s1s	Noun common singular illative singular first singular
+Nn-sx---s1p	Noun common singular illative singular first plural
+Nn-sx---s2	Noun common singular illative singular second
+Nn-sx---s2s	Noun common singular illative singular second singular
+Nn-sx---s2p	Noun common singular illative singular second plural
+Nn-sx---s3	Noun common singular illative singular third
+Nn-sx---s3s	Noun common singular illative singular third singular
+Nn-sx---s3p	Noun common singular illative singular third plural
+Nn-sx---p1	Noun common singular illative plural first
+Nn-sx---p1s	Noun common singular illative plural first singular
+Nn-sx---p1p	Noun common singular illative plural first plural
+Nn-sx---p2	Noun common singular illative plural second
+Nn-sx---p2s	Noun common singular illative plural second singular
+Nn-sx---p2p	Noun common singular illative plural second plural
+Nn-sx---p3	Noun common singular illative plural third
+Nn-sx---p3s	Noun common singular illative plural third singular
+Nn-sx---p3p	Noun common singular illative plural third plural
+Nn-s2	Noun common singular inessive
+Nn-s2-----s	Noun common singular inessive singular
+Nn-s2-----p	Noun common singular inessive plural
+Nn-s2---s1	Noun common singular inessive singular first
+Nn-s2---s1s	Noun common singular inessive singular first singular
+Nn-s2---s1p	Noun common singular inessive singular first plural
+Nn-s2---s2	Noun common singular inessive singular second
+Nn-s2---s2s	Noun common singular inessive singular second singular
+Nn-s2---s2p	Noun common singular inessive singular second plural
+Nn-s2---s3	Noun common singular inessive singular third
+Nn-s2---s3s	Noun common singular inessive singular third singular
+Nn-s2---s3p	Noun common singular inessive singular third plural
+Nn-s2---p1	Noun common singular inessive plural first
+Nn-s2---p1s	Noun common singular inessive plural first singular
+Nn-s2---p1p	Noun common singular inessive plural first plural
+Nn-s2---p2	Noun common singular inessive plural second
+Nn-s2---p2s	Noun common singular inessive plural second singular
+Nn-s2---p2p	Noun common singular inessive plural second plural
+Nn-s2---p3	Noun common singular inessive plural third
+Nn-s2---p3s	Noun common singular inessive plural third singular
+Nn-s2---p3p	Noun common singular inessive plural third plural
+Nn-se	Noun common singular elative
+Nn-se-----s	Noun common singular elative singular
+Nn-se-----p	Noun common singular elative plural
+Nn-se---s1	Noun common singular elative singular first
+Nn-se---s1s	Noun common singular elative singular first singular
+Nn-se---s1p	Noun common singular elative singular first plural
+Nn-se---s2	Noun common singular elative singular second
+Nn-se---s2s	Noun common singular elative singular second singular
+Nn-se---s2p	Noun common singular elative singular second plural
+Nn-se---s3	Noun common singular elative singular third
+Nn-se---s3s	Noun common singular elative singular third singular
+Nn-se---s3p	Noun common singular elative singular third plural
+Nn-se---p1	Noun common singular elative plural first
+Nn-se---p1s	Noun common singular elative plural first singular
+Nn-se---p1p	Noun common singular elative plural first plural
+Nn-se---p2	Noun common singular elative plural second
+Nn-se---p2s	Noun common singular elative plural second singular
+Nn-se---p2p	Noun common singular elative plural second plural
+Nn-se---p3	Noun common singular elative plural third
+Nn-se---p3s	Noun common singular elative plural third singular
+Nn-se---p3p	Noun common singular elative plural third plural
+Nn-st	Noun common singular allative
+Nn-st-----s	Noun common singular allative singular
+Nn-st-----p	Noun common singular allative plural
+Nn-st---s1	Noun common singular allative singular first
+Nn-st---s1s	Noun common singular allative singular first singular
+Nn-st---s1p	Noun common singular allative singular first plural
+Nn-st---s2	Noun common singular allative singular second
+Nn-st---s2s	Noun common singular allative singular second singular
+Nn-st---s2p	Noun common singular allative singular second plural
+Nn-st---s3	Noun common singular allative singular third
+Nn-st---s3s	Noun common singular allative singular third singular
+Nn-st---s3p	Noun common singular allative singular third plural
+Nn-st---p1	Noun common singular allative plural first
+Nn-st---p1s	Noun common singular allative plural first singular
+Nn-st---p1p	Noun common singular allative plural first plural
+Nn-st---p2	Noun common singular allative plural second
+Nn-st---p2s	Noun common singular allative plural second singular
+Nn-st---p2p	Noun common singular allative plural second plural
+Nn-st---p3	Noun common singular allative plural third
+Nn-st---p3s	Noun common singular allative plural third singular
+Nn-st---p3p	Noun common singular allative plural third plural
+Nn-s3	Noun common singular adessive
+Nn-s3-----s	Noun common singular adessive singular
+Nn-s3-----p	Noun common singular adessive plural
+Nn-s3---s1	Noun common singular adessive singular first
+Nn-s3---s1s	Noun common singular adessive singular first singular
+Nn-s3---s1p	Noun common singular adessive singular first plural
+Nn-s3---s2	Noun common singular adessive singular second
+Nn-s3---s2s	Noun common singular adessive singular second singular
+Nn-s3---s2p	Noun common singular adessive singular second plural
+Nn-s3---s3	Noun common singular adessive singular third
+Nn-s3---s3s	Noun common singular adessive singular third singular
+Nn-s3---s3p	Noun common singular adessive singular third plural
+Nn-s3---p1	Noun common singular adessive plural first
+Nn-s3---p1s	Noun common singular adessive plural first singular
+Nn-s3---p1p	Noun common singular adessive plural first plural
+Nn-s3---p2	Noun common singular adessive plural second
+Nn-s3---p2s	Noun common singular adessive plural second singular
+Nn-s3---p2p	Noun common singular adessive plural second plural
+Nn-s3---p3	Noun common singular adessive plural third
+Nn-s3---p3s	Noun common singular adessive plural third singular
+Nn-s3---p3p	Noun common singular adessive plural third plural
+Nn-sb	Noun common singular ablative
+Nn-sb-----s	Noun common singular ablative singular
+Nn-sb-----p	Noun common singular ablative plural
+Nn-sb---s1	Noun common singular ablative singular first
+Nn-sb---s1s	Noun common singular ablative singular first singular
+Nn-sb---s1p	Noun common singular ablative singular first plural
+Nn-sb---s2	Noun common singular ablative singular second
+Nn-sb---s2s	Noun common singular ablative singular second singular
+Nn-sb---s2p	Noun common singular ablative singular second plural
+Nn-sb---s3	Noun common singular ablative singular third
+Nn-sb---s3s	Noun common singular ablative singular third singular
+Nn-sb---s3p	Noun common singular ablative singular third plural
+Nn-sb---p1	Noun common singular ablative plural first
+Nn-sb---p1s	Noun common singular ablative plural first singular
+Nn-sb---p1p	Noun common singular ablative plural first plural
+Nn-sb---p2	Noun common singular ablative plural second
+Nn-sb---p2s	Noun common singular ablative plural second singular
+Nn-sb---p2p	Noun common singular ablative plural second plural
+Nn-sb---p3	Noun common singular ablative plural third
+Nn-sb---p3s	Noun common singular ablative plural third singular
+Nn-sb---p3p	Noun common singular ablative plural third plural
+Nn-s9	Noun common singular terminative
+Nn-s9-----s	Noun common singular terminative singular
+Nn-s9-----p	Noun common singular terminative plural
+Nn-s9---s1	Noun common singular terminative singular first
+Nn-s9---s1s	Noun common singular terminative singular first singular
+Nn-s9---s1p	Noun common singular terminative singular first plural
+Nn-s9---s2	Noun common singular terminative singular second
+Nn-s9---s2s	Noun common singular terminative singular second singular
+Nn-s9---s2p	Noun common singular terminative singular second plural
+Nn-s9---s3	Noun common singular terminative singular third
+Nn-s9---s3s	Noun common singular terminative singular third singular
+Nn-s9---s3p	Noun common singular terminative singular third plural
+Nn-s9---p1	Noun common singular terminative plural first
+Nn-s9---p1s	Noun common singular terminative plural first singular
+Nn-s9---p1p	Noun common singular terminative plural first plural
+Nn-s9---p2	Noun common singular terminative plural second
+Nn-s9---p2s	Noun common singular terminative plural second singular
+Nn-s9---p2p	Noun common singular terminative plural second plural
+Nn-s9---p3	Noun common singular terminative plural third
+Nn-s9---p3s	Noun common singular terminative plural third singular
+Nn-s9---p3p	Noun common singular terminative plural third plural
+Nn-sw	Noun common singular essive
+Nn-sw-----s	Noun common singular essive singular
+Nn-sw-----p	Noun common singular essive plural
+Nn-sw---s1	Noun common singular essive singular first
+Nn-sw---s1s	Noun common singular essive singular first singular
+Nn-sw---s1p	Noun common singular essive singular first plural
+Nn-sw---s2	Noun common singular essive singular second
+Nn-sw---s2s	Noun common singular essive singular second singular
+Nn-sw---s2p	Noun common singular essive singular second plural
+Nn-sw---s3	Noun common singular essive singular third
+Nn-sw---s3s	Noun common singular essive singular third singular
+Nn-sw---s3p	Noun common singular essive singular third plural
+Nn-sw---p1	Noun common singular essive plural first
+Nn-sw---p1s	Noun common singular essive plural first singular
+Nn-sw---p1p	Noun common singular essive plural first plural
+Nn-sw---p2	Noun common singular essive plural second
+Nn-sw---p2s	Noun common singular essive plural second singular
+Nn-sw---p2p	Noun common singular essive plural second plural
+Nn-sw---p3	Noun common singular essive plural third
+Nn-sw---p3s	Noun common singular essive plural third singular
+Nn-sw---p3p	Noun common singular essive plural third plural
+Nn-sm	Noun common singular temporalis
+Nn-sm-----s	Noun common singular temporalis singular
+Nn-sm-----p	Noun common singular temporalis plural
+Nn-sm---s1	Noun common singular temporalis singular first
+Nn-sm---s1s	Noun common singular temporalis singular first singular
+Nn-sm---s1p	Noun common singular temporalis singular first plural
+Nn-sm---s2	Noun common singular temporalis singular second
+Nn-sm---s2s	Noun common singular temporalis singular second singular
+Nn-sm---s2p	Noun common singular temporalis singular second plural
+Nn-sm---s3	Noun common singular temporalis singular third
+Nn-sm---s3s	Noun common singular temporalis singular third singular
+Nn-sm---s3p	Noun common singular temporalis singular third plural
+Nn-sm---p1	Noun common singular temporalis plural first
+Nn-sm---p1s	Noun common singular temporalis plural first singular
+Nn-sm---p1p	Noun common singular temporalis plural first plural
+Nn-sm---p2	Noun common singular temporalis plural second
+Nn-sm---p2s	Noun common singular temporalis plural second singular
+Nn-sm---p2p	Noun common singular temporalis plural second plural
+Nn-sm---p3	Noun common singular temporalis plural third
+Nn-sm---p3s	Noun common singular temporalis plural third singular
+Nn-sm---p3p	Noun common singular temporalis plural third plural
+Nn-sc	Noun common singular causalis
+Nn-sc-----s	Noun common singular causalis singular
+Nn-sc-----p	Noun common singular causalis plural
+Nn-sc---s1	Noun common singular causalis singular first
+Nn-sc---s1s	Noun common singular causalis singular first singular
+Nn-sc---s1p	Noun common singular causalis singular first plural
+Nn-sc---s2	Noun common singular causalis singular second
+Nn-sc---s2s	Noun common singular causalis singular second singular
+Nn-sc---s2p	Noun common singular causalis singular second plural
+Nn-sc---s3	Noun common singular causalis singular third
+Nn-sc---s3s	Noun common singular causalis singular third singular
+Nn-sc---s3p	Noun common singular causalis singular third plural
+Nn-sc---p1	Noun common singular causalis plural first
+Nn-sc---p1s	Noun common singular causalis plural first singular
+Nn-sc---p1p	Noun common singular causalis plural first plural
+Nn-sc---p2	Noun common singular causalis plural second
+Nn-sc---p2s	Noun common singular causalis plural second singular
+Nn-sc---p2p	Noun common singular causalis plural second plural
+Nn-sc---p3	Noun common singular causalis plural third
+Nn-sc---p3s	Noun common singular causalis plural third singular
+Nn-sc---p3p	Noun common singular causalis plural third plural
+Nn-ss	Noun common singular sublative
+Nn-ss-----s	Noun common singular sublative singular
+Nn-ss-----p	Noun common singular sublative plural
+Nn-ss---s1	Noun common singular sublative singular first
+Nn-ss---s1s	Noun common singular sublative singular first singular
+Nn-ss---s1p	Noun common singular sublative singular first plural
+Nn-ss---s2	Noun common singular sublative singular second
+Nn-ss---s2s	Noun common singular sublative singular second singular
+Nn-ss---s2p	Noun common singular sublative singular second plural
+Nn-ss---s3	Noun common singular sublative singular third
+Nn-ss---s3s	Noun common singular sublative singular third singular
+Nn-ss---s3p	Noun common singular sublative singular third plural
+Nn-ss---p1	Noun common singular sublative plural first
+Nn-ss---p1s	Noun common singular sublative plural first singular
+Nn-ss---p1p	Noun common singular sublative plural first plural
+Nn-ss---p2	Noun common singular sublative plural second
+Nn-ss---p2s	Noun common singular sublative plural second singular
+Nn-ss---p2p	Noun common singular sublative plural second plural
+Nn-ss---p3	Noun common singular sublative plural third
+Nn-ss---p3s	Noun common singular sublative plural third singular
+Nn-ss---p3p	Noun common singular sublative plural third plural
+Nn-sh	Noun common singular delative
+Nn-sh-----s	Noun common singular delative singular
+Nn-sh-----p	Noun common singular delative plural
+Nn-sh---s1	Noun common singular delative singular first
+Nn-sh---s1s	Noun common singular delative singular first singular
+Nn-sh---s1p	Noun common singular delative singular first plural
+Nn-sh---s2	Noun common singular delative singular second
+Nn-sh---s2s	Noun common singular delative singular second singular
+Nn-sh---s2p	Noun common singular delative singular second plural
+Nn-sh---s3	Noun common singular delative singular third
+Nn-sh---s3s	Noun common singular delative singular third singular
+Nn-sh---s3p	Noun common singular delative singular third plural
+Nn-sh---p1	Noun common singular delative plural first
+Nn-sh---p1s	Noun common singular delative plural first singular
+Nn-sh---p1p	Noun common singular delative plural first plural
+Nn-sh---p2	Noun common singular delative plural second
+Nn-sh---p2s	Noun common singular delative plural second singular
+Nn-sh---p2p	Noun common singular delative plural second plural
+Nn-sh---p3	Noun common singular delative plural third
+Nn-sh---p3s	Noun common singular delative plural third singular
+Nn-sh---p3p	Noun common singular delative plural third plural
+Nn-sq	Noun common singular sociative
+Nn-sq-----s	Noun common singular sociative singular
+Nn-sq-----p	Noun common singular sociative plural
+Nn-sq---s1	Noun common singular sociative singular first
+Nn-sq---s1s	Noun common singular sociative singular first singular
+Nn-sq---s1p	Noun common singular sociative singular first plural
+Nn-sq---s2	Noun common singular sociative singular second
+Nn-sq---s2s	Noun common singular sociative singular second singular
+Nn-sq---s2p	Noun common singular sociative singular second plural
+Nn-sq---s3	Noun common singular sociative singular third
+Nn-sq---s3s	Noun common singular sociative singular third singular
+Nn-sq---s3p	Noun common singular sociative singular third plural
+Nn-sq---p1	Noun common singular sociative plural first
+Nn-sq---p1s	Noun common singular sociative plural first singular
+Nn-sq---p1p	Noun common singular sociative plural first plural
+Nn-sq---p2	Noun common singular sociative plural second
+Nn-sq---p2s	Noun common singular sociative plural second singular
+Nn-sq---p2p	Noun common singular sociative plural second plural
+Nn-sq---p3	Noun common singular sociative plural third
+Nn-sq---p3s	Noun common singular sociative plural third singular
+Nn-sq---p3p	Noun common singular sociative plural third plural
+Nn-sy	Noun common singular factive
+Nn-sy-----s	Noun common singular factive singular
+Nn-sy-----p	Noun common singular factive plural
+Nn-sy---s1	Noun common singular factive singular first
+Nn-sy---s1s	Noun common singular factive singular first singular
+Nn-sy---s1p	Noun common singular factive singular first plural
+Nn-sy---s2	Noun common singular factive singular second
+Nn-sy---s2s	Noun common singular factive singular second singular
+Nn-sy---s2p	Noun common singular factive singular second plural
+Nn-sy---s3	Noun common singular factive singular third
+Nn-sy---s3s	Noun common singular factive singular third singular
+Nn-sy---s3p	Noun common singular factive singular third plural
+Nn-sy---p1	Noun common singular factive plural first
+Nn-sy---p1s	Noun common singular factive plural first singular
+Nn-sy---p1p	Noun common singular factive plural first plural
+Nn-sy---p2	Noun common singular factive plural second
+Nn-sy---p2s	Noun common singular factive plural second singular
+Nn-sy---p2p	Noun common singular factive plural second plural
+Nn-sy---p3	Noun common singular factive plural third
+Nn-sy---p3s	Noun common singular factive plural third singular
+Nn-sy---p3p	Noun common singular factive plural third plural
+Nn-sp	Noun common singular superessive
+Nn-sp-----s	Noun common singular superessive singular
+Nn-sp-----p	Noun common singular superessive plural
+Nn-sp---s1	Noun common singular superessive singular first
+Nn-sp---s1s	Noun common singular superessive singular first singular
+Nn-sp---s1p	Noun common singular superessive singular first plural
+Nn-sp---s2	Noun common singular superessive singular second
+Nn-sp---s2s	Noun common singular superessive singular second singular
+Nn-sp---s2p	Noun common singular superessive singular second plural
+Nn-sp---s3	Noun common singular superessive singular third
+Nn-sp---s3s	Noun common singular superessive singular third singular
+Nn-sp---s3p	Noun common singular superessive singular third plural
+Nn-sp---p1	Noun common singular superessive plural first
+Nn-sp---p1s	Noun common singular superessive plural first singular
+Nn-sp---p1p	Noun common singular superessive plural first plural
+Nn-sp---p2	Noun common singular superessive plural second
+Nn-sp---p2s	Noun common singular superessive plural second singular
+Nn-sp---p2p	Noun common singular superessive plural second plural
+Nn-sp---p3	Noun common singular superessive plural third
+Nn-sp---p3s	Noun common singular superessive plural third singular
+Nn-sp---p3p	Noun common singular superessive plural third plural
+Nn-su	Noun common singular distributive
+Nn-su-----s	Noun common singular distributive singular
+Nn-su-----p	Noun common singular distributive plural
+Nn-su---s1	Noun common singular distributive singular first
+Nn-su---s1s	Noun common singular distributive singular first singular
+Nn-su---s1p	Noun common singular distributive singular first plural
+Nn-su---s2	Noun common singular distributive singular second
+Nn-su---s2s	Noun common singular distributive singular second singular
+Nn-su---s2p	Noun common singular distributive singular second plural
+Nn-su---s3	Noun common singular distributive singular third
+Nn-su---s3s	Noun common singular distributive singular third singular
+Nn-su---s3p	Noun common singular distributive singular third plural
+Nn-su---p1	Noun common singular distributive plural first
+Nn-su---p1s	Noun common singular distributive plural first singular
+Nn-su---p1p	Noun common singular distributive plural first plural
+Nn-su---p2	Noun common singular distributive plural second
+Nn-su---p2s	Noun common singular distributive plural second singular
+Nn-su---p2p	Noun common singular distributive plural second plural
+Nn-su---p3	Noun common singular distributive plural third
+Nn-su---p3s	Noun common singular distributive plural third singular
+Nn-su---p3p	Noun common singular distributive plural third plural
+Nn-sf	Noun common singular essive-formal
+Nn-sf-----s	Noun common singular essive-formal singular
+Nn-sf-----p	Noun common singular essive-formal plural
+Nn-sf---s1	Noun common singular essive-formal singular first
+Nn-sf---s1s	Noun common singular essive-formal singular first singular
+Nn-sf---s1p	Noun common singular essive-formal singular first plural
+Nn-sf---s2	Noun common singular essive-formal singular second
+Nn-sf---s2s	Noun common singular essive-formal singular second singular
+Nn-sf---s2p	Noun common singular essive-formal singular second plural
+Nn-sf---s3	Noun common singular essive-formal singular third
+Nn-sf---s3s	Noun common singular essive-formal singular third singular
+Nn-sf---s3p	Noun common singular essive-formal singular third plural
+Nn-sf---p1	Noun common singular essive-formal plural first
+Nn-sf---p1s	Noun common singular essive-formal plural first singular
+Nn-sf---p1p	Noun common singular essive-formal plural first plural
+Nn-sf---p2	Noun common singular essive-formal plural second
+Nn-sf---p2s	Noun common singular essive-formal plural second singular
+Nn-sf---p2p	Noun common singular essive-formal plural second plural
+Nn-sf---p3	Noun common singular essive-formal plural third
+Nn-sf---p3s	Noun common singular essive-formal plural third singular
+Nn-sf---p3p	Noun common singular essive-formal plural third plural
+Nn-pn	Noun common plural nominative
+Nn-pn-----s	Noun common plural nominative singular
+Nn-pn-----p	Noun common plural nominative plural
+Nn-pn---s1	Noun common plural nominative singular first
+Nn-pn---s1s	Noun common plural nominative singular first singular
+Nn-pn---s1p	Noun common plural nominative singular first plural
+Nn-pn---s2	Noun common plural nominative singular second
+Nn-pn---s2s	Noun common plural nominative singular second singular
+Nn-pn---s2p	Noun common plural nominative singular second plural
+Nn-pn---s3	Noun common plural nominative singular third
+Nn-pn---s3s	Noun common plural nominative singular third singular
+Nn-pn---s3p	Noun common plural nominative singular third plural
+Nn-pn---p1	Noun common plural nominative plural first
+Nn-pn---p1s	Noun common plural nominative plural first singular
+Nn-pn---p1p	Noun common plural nominative plural first plural
+Nn-pn---p2	Noun common plural nominative plural second
+Nn-pn---p2s	Noun common plural nominative plural second singular
+Nn-pn---p2p	Noun common plural nominative plural second plural
+Nn-pn---p3	Noun common plural nominative plural third
+Nn-pn---p3s	Noun common plural nominative plural third singular
+Nn-pn---p3p	Noun common plural nominative plural third plural
+Nn-pg	Noun common plural genitive
+Nn-pg-----s	Noun common plural genitive singular
+Nn-pg-----p	Noun common plural genitive plural
+Nn-pg---s1	Noun common plural genitive singular first
+Nn-pg---s1s	Noun common plural genitive singular first singular
+Nn-pg---s1p	Noun common plural genitive singular first plural
+Nn-pg---s2	Noun common plural genitive singular second
+Nn-pg---s2s	Noun common plural genitive singular second singular
+Nn-pg---s2p	Noun common plural genitive singular second plural
+Nn-pg---s3	Noun common plural genitive singular third
+Nn-pg---s3s	Noun common plural genitive singular third singular
+Nn-pg---s3p	Noun common plural genitive singular third plural
+Nn-pg---p1	Noun common plural genitive plural first
+Nn-pg---p1s	Noun common plural genitive plural first singular
+Nn-pg---p1p	Noun common plural genitive plural first plural
+Nn-pg---p2	Noun common plural genitive plural second
+Nn-pg---p2s	Noun common plural genitive plural second singular
+Nn-pg---p2p	Noun common plural genitive plural second plural
+Nn-pg---p3	Noun common plural genitive plural third
+Nn-pg---p3s	Noun common plural genitive plural third singular
+Nn-pg---p3p	Noun common plural genitive plural third plural
+Nn-pd	Noun common plural dative
+Nn-pd-----s	Noun common plural dative singular
+Nn-pd-----p	Noun common plural dative plural
+Nn-pd---s1	Noun common plural dative singular first
+Nn-pd---s1s	Noun common plural dative singular first singular
+Nn-pd---s1p	Noun common plural dative singular first plural
+Nn-pd---s2	Noun common plural dative singular second
+Nn-pd---s2s	Noun common plural dative singular second singular
+Nn-pd---s2p	Noun common plural dative singular second plural
+Nn-pd---s3	Noun common plural dative singular third
+Nn-pd---s3s	Noun common plural dative singular third singular
+Nn-pd---s3p	Noun common plural dative singular third plural
+Nn-pd---p1	Noun common plural dative plural first
+Nn-pd---p1s	Noun common plural dative plural first singular
+Nn-pd---p1p	Noun common plural dative plural first plural
+Nn-pd---p2	Noun common plural dative plural second
+Nn-pd---p2s	Noun common plural dative plural second singular
+Nn-pd---p2p	Noun common plural dative plural second plural
+Nn-pd---p3	Noun common plural dative plural third
+Nn-pd---p3s	Noun common plural dative plural third singular
+Nn-pd---p3p	Noun common plural dative plural third plural
+Nn-pa	Noun common plural accusative
+Nn-pa-----s	Noun common plural accusative singular
+Nn-pa-----p	Noun common plural accusative plural
+Nn-pa---s1	Noun common plural accusative singular first
+Nn-pa---s1s	Noun common plural accusative singular first singular
+Nn-pa---s1p	Noun common plural accusative singular first plural
+Nn-pa---s2	Noun common plural accusative singular second
+Nn-pa---s2s	Noun common plural accusative singular second singular
+Nn-pa---s2p	Noun common plural accusative singular second plural
+Nn-pa---s3	Noun common plural accusative singular third
+Nn-pa---s3s	Noun common plural accusative singular third singular
+Nn-pa---s3p	Noun common plural accusative singular third plural
+Nn-pa---p1	Noun common plural accusative plural first
+Nn-pa---p1s	Noun common plural accusative plural first singular
+Nn-pa---p1p	Noun common plural accusative plural first plural
+Nn-pa---p2	Noun common plural accusative plural second
+Nn-pa---p2s	Noun common plural accusative plural second singular
+Nn-pa---p2p	Noun common plural accusative plural second plural
+Nn-pa---p3	Noun common plural accusative plural third
+Nn-pa---p3s	Noun common plural accusative plural third singular
+Nn-pa---p3p	Noun common plural accusative plural third plural
+Nn-pi	Noun common plural instrumental
+Nn-pi-----s	Noun common plural instrumental singular
+Nn-pi-----p	Noun common plural instrumental plural
+Nn-pi---s1	Noun common plural instrumental singular first
+Nn-pi---s1s	Noun common plural instrumental singular first singular
+Nn-pi---s1p	Noun common plural instrumental singular first plural
+Nn-pi---s2	Noun common plural instrumental singular second
+Nn-pi---s2s	Noun common plural instrumental singular second singular
+Nn-pi---s2p	Noun common plural instrumental singular second plural
+Nn-pi---s3	Noun common plural instrumental singular third
+Nn-pi---s3s	Noun common plural instrumental singular third singular
+Nn-pi---s3p	Noun common plural instrumental singular third plural
+Nn-pi---p1	Noun common plural instrumental plural first
+Nn-pi---p1s	Noun common plural instrumental plural first singular
+Nn-pi---p1p	Noun common plural instrumental plural first plural
+Nn-pi---p2	Noun common plural instrumental plural second
+Nn-pi---p2s	Noun common plural instrumental plural second singular
+Nn-pi---p2p	Noun common plural instrumental plural second plural
+Nn-pi---p3	Noun common plural instrumental plural third
+Nn-pi---p3s	Noun common plural instrumental plural third singular
+Nn-pi---p3p	Noun common plural instrumental plural third plural
+Nn-px	Noun common plural illative
+Nn-px-----s	Noun common plural illative singular
+Nn-px-----p	Noun common plural illative plural
+Nn-px---s1	Noun common plural illative singular first
+Nn-px---s1s	Noun common plural illative singular first singular
+Nn-px---s1p	Noun common plural illative singular first plural
+Nn-px---s2	Noun common plural illative singular second
+Nn-px---s2s	Noun common plural illative singular second singular
+Nn-px---s2p	Noun common plural illative singular second plural
+Nn-px---s3	Noun common plural illative singular third
+Nn-px---s3s	Noun common plural illative singular third singular
+Nn-px---s3p	Noun common plural illative singular third plural
+Nn-px---p1	Noun common plural illative plural first
+Nn-px---p1s	Noun common plural illative plural first singular
+Nn-px---p1p	Noun common plural illative plural first plural
+Nn-px---p2	Noun common plural illative plural second
+Nn-px---p2s	Noun common plural illative plural second singular
+Nn-px---p2p	Noun common plural illative plural second plural
+Nn-px---p3	Noun common plural illative plural third
+Nn-px---p3s	Noun common plural illative plural third singular
+Nn-px---p3p	Noun common plural illative plural third plural
+Nn-p2	Noun common plural inessive
+Nn-p2-----s	Noun common plural inessive singular
+Nn-p2-----p	Noun common plural inessive plural
+Nn-p2---s1	Noun common plural inessive singular first
+Nn-p2---s1s	Noun common plural inessive singular first singular
+Nn-p2---s1p	Noun common plural inessive singular first plural
+Nn-p2---s2	Noun common plural inessive singular second
+Nn-p2---s2s	Noun common plural inessive singular second singular
+Nn-p2---s2p	Noun common plural inessive singular second plural
+Nn-p2---s3	Noun common plural inessive singular third
+Nn-p2---s3s	Noun common plural inessive singular third singular
+Nn-p2---s3p	Noun common plural inessive singular third plural
+Nn-p2---p1	Noun common plural inessive plural first
+Nn-p2---p1s	Noun common plural inessive plural first singular
+Nn-p2---p1p	Noun common plural inessive plural first plural
+Nn-p2---p2	Noun common plural inessive plural second
+Nn-p2---p2s	Noun common plural inessive plural second singular
+Nn-p2---p2p	Noun common plural inessive plural second plural
+Nn-p2---p3	Noun common plural inessive plural third
+Nn-p2---p3s	Noun common plural inessive plural third singular
+Nn-p2---p3p	Noun common plural inessive plural third plural
+Nn-pe	Noun common plural elative
+Nn-pe-----s	Noun common plural elative singular
+Nn-pe-----p	Noun common plural elative plural
+Nn-pe---s1	Noun common plural elative singular first
+Nn-pe---s1s	Noun common plural elative singular first singular
+Nn-pe---s1p	Noun common plural elative singular first plural
+Nn-pe---s2	Noun common plural elative singular second
+Nn-pe---s2s	Noun common plural elative singular second singular
+Nn-pe---s2p	Noun common plural elative singular second plural
+Nn-pe---s3	Noun common plural elative singular third
+Nn-pe---s3s	Noun common plural elative singular third singular
+Nn-pe---s3p	Noun common plural elative singular third plural
+Nn-pe---p1	Noun common plural elative plural first
+Nn-pe---p1s	Noun common plural elative plural first singular
+Nn-pe---p1p	Noun common plural elative plural first plural
+Nn-pe---p2	Noun common plural elative plural second
+Nn-pe---p2s	Noun common plural elative plural second singular
+Nn-pe---p2p	Noun common plural elative plural second plural
+Nn-pe---p3	Noun common plural elative plural third
+Nn-pe---p3s	Noun common plural elative plural third singular
+Nn-pe---p3p	Noun common plural elative plural third plural
+Nn-pt	Noun common plural allative
+Nn-pt-----s	Noun common plural allative singular
+Nn-pt-----p	Noun common plural allative plural
+Nn-pt---s1	Noun common plural allative singular first
+Nn-pt---s1s	Noun common plural allative singular first singular
+Nn-pt---s1p	Noun common plural allative singular first plural
+Nn-pt---s2	Noun common plural allative singular second
+Nn-pt---s2s	Noun common plural allative singular second singular
+Nn-pt---s2p	Noun common plural allative singular second plural
+Nn-pt---s3	Noun common plural allative singular third
+Nn-pt---s3s	Noun common plural allative singular third singular
+Nn-pt---s3p	Noun common plural allative singular third plural
+Nn-pt---p1	Noun common plural allative plural first
+Nn-pt---p1s	Noun common plural allative plural first singular
+Nn-pt---p1p	Noun common plural allative plural first plural
+Nn-pt---p2	Noun common plural allative plural second
+Nn-pt---p2s	Noun common plural allative plural second singular
+Nn-pt---p2p	Noun common plural allative plural second plural
+Nn-pt---p3	Noun common plural allative plural third
+Nn-pt---p3s	Noun common plural allative plural third singular
+Nn-pt---p3p	Noun common plural allative plural third plural
+Nn-p3	Noun common plural adessive
+Nn-p3-----s	Noun common plural adessive singular
+Nn-p3-----p	Noun common plural adessive plural
+Nn-p3---s1	Noun common plural adessive singular first
+Nn-p3---s1s	Noun common plural adessive singular first singular
+Nn-p3---s1p	Noun common plural adessive singular first plural
+Nn-p3---s2	Noun common plural adessive singular second
+Nn-p3---s2s	Noun common plural adessive singular second singular
+Nn-p3---s2p	Noun common plural adessive singular second plural
+Nn-p3---s3	Noun common plural adessive singular third
+Nn-p3---s3s	Noun common plural adessive singular third singular
+Nn-p3---s3p	Noun common plural adessive singular third plural
+Nn-p3---p1	Noun common plural adessive plural first
+Nn-p3---p1s	Noun common plural adessive plural first singular
+Nn-p3---p1p	Noun common plural adessive plural first plural
+Nn-p3---p2	Noun common plural adessive plural second
+Nn-p3---p2s	Noun common plural adessive plural second singular
+Nn-p3---p2p	Noun common plural adessive plural second plural
+Nn-p3---p3	Noun common plural adessive plural third
+Nn-p3---p3s	Noun common plural adessive plural third singular
+Nn-p3---p3p	Noun common plural adessive plural third plural
+Nn-pb	Noun common plural ablative
+Nn-pb-----s	Noun common plural ablative singular
+Nn-pb-----p	Noun common plural ablative plural
+Nn-pb---s1	Noun common plural ablative singular first
+Nn-pb---s1s	Noun common plural ablative singular first singular
+Nn-pb---s1p	Noun common plural ablative singular first plural
+Nn-pb---s2	Noun common plural ablative singular second
+Nn-pb---s2s	Noun common plural ablative singular second singular
+Nn-pb---s2p	Noun common plural ablative singular second plural
+Nn-pb---s3	Noun common plural ablative singular third
+Nn-pb---s3s	Noun common plural ablative singular third singular
+Nn-pb---s3p	Noun common plural ablative singular third plural
+Nn-pb---p1	Noun common plural ablative plural first
+Nn-pb---p1s	Noun common plural ablative plural first singular
+Nn-pb---p1p	Noun common plural ablative plural first plural
+Nn-pb---p2	Noun common plural ablative plural second
+Nn-pb---p2s	Noun common plural ablative plural second singular
+Nn-pb---p2p	Noun common plural ablative plural second plural
+Nn-pb---p3	Noun common plural ablative plural third
+Nn-pb---p3s	Noun common plural ablative plural third singular
+Nn-pb---p3p	Noun common plural ablative plural third plural
+Nn-p9	Noun common plural terminative
+Nn-p9-----s	Noun common plural terminative singular
+Nn-p9-----p	Noun common plural terminative plural
+Nn-p9---s1	Noun common plural terminative singular first
+Nn-p9---s1s	Noun common plural terminative singular first singular
+Nn-p9---s1p	Noun common plural terminative singular first plural
+Nn-p9---s2	Noun common plural terminative singular second
+Nn-p9---s2s	Noun common plural terminative singular second singular
+Nn-p9---s2p	Noun common plural terminative singular second plural
+Nn-p9---s3	Noun common plural terminative singular third
+Nn-p9---s3s	Noun common plural terminative singular third singular
+Nn-p9---s3p	Noun common plural terminative singular third plural
+Nn-p9---p1	Noun common plural terminative plural first
+Nn-p9---p1s	Noun common plural terminative plural first singular
+Nn-p9---p1p	Noun common plural terminative plural first plural
+Nn-p9---p2	Noun common plural terminative plural second
+Nn-p9---p2s	Noun common plural terminative plural second singular
+Nn-p9---p2p	Noun common plural terminative plural second plural
+Nn-p9---p3	Noun common plural terminative plural third
+Nn-p9---p3s	Noun common plural terminative plural third singular
+Nn-p9---p3p	Noun common plural terminative plural third plural
+Nn-pw	Noun common plural essive
+Nn-pw-----s	Noun common plural essive singular
+Nn-pw-----p	Noun common plural essive plural
+Nn-pw---s1	Noun common plural essive singular first
+Nn-pw---s1s	Noun common plural essive singular first singular
+Nn-pw---s1p	Noun common plural essive singular first plural
+Nn-pw---s2	Noun common plural essive singular second
+Nn-pw---s2s	Noun common plural essive singular second singular
+Nn-pw---s2p	Noun common plural essive singular second plural
+Nn-pw---s3	Noun common plural essive singular third
+Nn-pw---s3s	Noun common plural essive singular third singular
+Nn-pw---s3p	Noun common plural essive singular third plural
+Nn-pw---p1	Noun common plural essive plural first
+Nn-pw---p1s	Noun common plural essive plural first singular
+Nn-pw---p1p	Noun common plural essive plural first plural
+Nn-pw---p2	Noun common plural essive plural second
+Nn-pw---p2s	Noun common plural essive plural second singular
+Nn-pw---p2p	Noun common plural essive plural second plural
+Nn-pw---p3	Noun common plural essive plural third
+Nn-pw---p3s	Noun common plural essive plural third singular
+Nn-pw---p3p	Noun common plural essive plural third plural
+Nn-pm	Noun common plural temporalis
+Nn-pm-----s	Noun common plural temporalis singular
+Nn-pm-----p	Noun common plural temporalis plural
+Nn-pm---s1	Noun common plural temporalis singular first
+Nn-pm---s1s	Noun common plural temporalis singular first singular
+Nn-pm---s1p	Noun common plural temporalis singular first plural
+Nn-pm---s2	Noun common plural temporalis singular second
+Nn-pm---s2s	Noun common plural temporalis singular second singular
+Nn-pm---s2p	Noun common plural temporalis singular second plural
+Nn-pm---s3	Noun common plural temporalis singular third
+Nn-pm---s3s	Noun common plural temporalis singular third singular
+Nn-pm---s3p	Noun common plural temporalis singular third plural
+Nn-pm---p1	Noun common plural temporalis plural first
+Nn-pm---p1s	Noun common plural temporalis plural first singular
+Nn-pm---p1p	Noun common plural temporalis plural first plural
+Nn-pm---p2	Noun common plural temporalis plural second
+Nn-pm---p2s	Noun common plural temporalis plural second singular
+Nn-pm---p2p	Noun common plural temporalis plural second plural
+Nn-pm---p3	Noun common plural temporalis plural third
+Nn-pm---p3s	Noun common plural temporalis plural third singular
+Nn-pm---p3p	Noun common plural temporalis plural third plural
+Nn-pc	Noun common plural causalis
+Nn-pc-----s	Noun common plural causalis singular
+Nn-pc-----p	Noun common plural causalis plural
+Nn-pc---s1	Noun common plural causalis singular first
+Nn-pc---s1s	Noun common plural causalis singular first singular
+Nn-pc---s1p	Noun common plural causalis singular first plural
+Nn-pc---s2	Noun common plural causalis singular second
+Nn-pc---s2s	Noun common plural causalis singular second singular
+Nn-pc---s2p	Noun common plural causalis singular second plural
+Nn-pc---s3	Noun common plural causalis singular third
+Nn-pc---s3s	Noun common plural causalis singular third singular
+Nn-pc---s3p	Noun common plural causalis singular third plural
+Nn-pc---p1	Noun common plural causalis plural first
+Nn-pc---p1s	Noun common plural causalis plural first singular
+Nn-pc---p1p	Noun common plural causalis plural first plural
+Nn-pc---p2	Noun common plural causalis plural second
+Nn-pc---p2s	Noun common plural causalis plural second singular
+Nn-pc---p2p	Noun common plural causalis plural second plural
+Nn-pc---p3	Noun common plural causalis plural third
+Nn-pc---p3s	Noun common plural causalis plural third singular
+Nn-pc---p3p	Noun common plural causalis plural third plural
+Nn-ps	Noun common plural sublative
+Nn-ps-----s	Noun common plural sublative singular
+Nn-ps-----p	Noun common plural sublative plural
+Nn-ps---s1	Noun common plural sublative singular first
+Nn-ps---s1s	Noun common plural sublative singular first singular
+Nn-ps---s1p	Noun common plural sublative singular first plural
+Nn-ps---s2	Noun common plural sublative singular second
+Nn-ps---s2s	Noun common plural sublative singular second singular
+Nn-ps---s2p	Noun common plural sublative singular second plural
+Nn-ps---s3	Noun common plural sublative singular third
+Nn-ps---s3s	Noun common plural sublative singular third singular
+Nn-ps---s3p	Noun common plural sublative singular third plural
+Nn-ps---p1	Noun common plural sublative plural first
+Nn-ps---p1s	Noun common plural sublative plural first singular
+Nn-ps---p1p	Noun common plural sublative plural first plural
+Nn-ps---p2	Noun common plural sublative plural second
+Nn-ps---p2s	Noun common plural sublative plural second singular
+Nn-ps---p2p	Noun common plural sublative plural second plural
+Nn-ps---p3	Noun common plural sublative plural third
+Nn-ps---p3s	Noun common plural sublative plural third singular
+Nn-ps---p3p	Noun common plural sublative plural third plural
+Nn-ph	Noun common plural delative
+Nn-ph-----s	Noun common plural delative singular
+Nn-ph-----p	Noun common plural delative plural
+Nn-ph---s1	Noun common plural delative singular first
+Nn-ph---s1s	Noun common plural delative singular first singular
+Nn-ph---s1p	Noun common plural delative singular first plural
+Nn-ph---s2	Noun common plural delative singular second
+Nn-ph---s2s	Noun common plural delative singular second singular
+Nn-ph---s2p	Noun common plural delative singular second plural
+Nn-ph---s3	Noun common plural delative singular third
+Nn-ph---s3s	Noun common plural delative singular third singular
+Nn-ph---s3p	Noun common plural delative singular third plural
+Nn-ph---p1	Noun common plural delative plural first
+Nn-ph---p1s	Noun common plural delative plural first singular
+Nn-ph---p1p	Noun common plural delative plural first plural
+Nn-ph---p2	Noun common plural delative plural second
+Nn-ph---p2s	Noun common plural delative plural second singular
+Nn-ph---p2p	Noun common plural delative plural second plural
+Nn-ph---p3	Noun common plural delative plural third
+Nn-ph---p3s	Noun common plural delative plural third singular
+Nn-ph---p3p	Noun common plural delative plural third plural
+Nn-pq	Noun common plural sociative
+Nn-pq-----s	Noun common plural sociative singular
+Nn-pq-----p	Noun common plural sociative plural
+Nn-pq---s1	Noun common plural sociative singular first
+Nn-pq---s1s	Noun common plural sociative singular first singular
+Nn-pq---s1p	Noun common plural sociative singular first plural
+Nn-pq---s2	Noun common plural sociative singular second
+Nn-pq---s2s	Noun common plural sociative singular second singular
+Nn-pq---s2p	Noun common plural sociative singular second plural
+Nn-pq---s3	Noun common plural sociative singular third
+Nn-pq---s3s	Noun common plural sociative singular third singular
+Nn-pq---s3p	Noun common plural sociative singular third plural
+Nn-pq---p1	Noun common plural sociative plural first
+Nn-pq---p1s	Noun common plural sociative plural first singular
+Nn-pq---p1p	Noun common plural sociative plural first plural
+Nn-pq---p2	Noun common plural sociative plural second
+Nn-pq---p2s	Noun common plural sociative plural second singular
+Nn-pq---p2p	Noun common plural sociative plural second plural
+Nn-pq---p3	Noun common plural sociative plural third
+Nn-pq---p3s	Noun common plural sociative plural third singular
+Nn-pq---p3p	Noun common plural sociative plural third plural
+Nn-py	Noun common plural factive
+Nn-py-----s	Noun common plural factive singular
+Nn-py-----p	Noun common plural factive plural
+Nn-py---s1	Noun common plural factive singular first
+Nn-py---s1s	Noun common plural factive singular first singular
+Nn-py---s1p	Noun common plural factive singular first plural
+Nn-py---s2	Noun common plural factive singular second
+Nn-py---s2s	Noun common plural factive singular second singular
+Nn-py---s2p	Noun common plural factive singular second plural
+Nn-py---s3	Noun common plural factive singular third
+Nn-py---s3s	Noun common plural factive singular third singular
+Nn-py---s3p	Noun common plural factive singular third plural
+Nn-py---p1	Noun common plural factive plural first
+Nn-py---p1s	Noun common plural factive plural first singular
+Nn-py---p1p	Noun common plural factive plural first plural
+Nn-py---p2	Noun common plural factive plural second
+Nn-py---p2s	Noun common plural factive plural second singular
+Nn-py---p2p	Noun common plural factive plural second plural
+Nn-py---p3	Noun common plural factive plural third
+Nn-py---p3s	Noun common plural factive plural third singular
+Nn-py---p3p	Noun common plural factive plural third plural
+Nn-pp	Noun common plural superessive
+Nn-pp-----s	Noun common plural superessive singular
+Nn-pp-----p	Noun common plural superessive plural
+Nn-pp---s1	Noun common plural superessive singular first
+Nn-pp---s1s	Noun common plural superessive singular first singular
+Nn-pp---s1p	Noun common plural superessive singular first plural
+Nn-pp---s2	Noun common plural superessive singular second
+Nn-pp---s2s	Noun common plural superessive singular second singular
+Nn-pp---s2p	Noun common plural superessive singular second plural
+Nn-pp---s3	Noun common plural superessive singular third
+Nn-pp---s3s	Noun common plural superessive singular third singular
+Nn-pp---s3p	Noun common plural superessive singular third plural
+Nn-pp---p1	Noun common plural superessive plural first
+Nn-pp---p1s	Noun common plural superessive plural first singular
+Nn-pp---p1p	Noun common plural superessive plural first plural
+Nn-pp---p2	Noun common plural superessive plural second
+Nn-pp---p2s	Noun common plural superessive plural second singular
+Nn-pp---p2p	Noun common plural superessive plural second plural
+Nn-pp---p3	Noun common plural superessive plural third
+Nn-pp---p3s	Noun common plural superessive plural third singular
+Nn-pp---p3p	Noun common plural superessive plural third plural
+Nn-pu	Noun common plural distributive
+Nn-pu-----s	Noun common plural distributive singular
+Nn-pu-----p	Noun common plural distributive plural
+Nn-pu---s1	Noun common plural distributive singular first
+Nn-pu---s1s	Noun common plural distributive singular first singular
+Nn-pu---s1p	Noun common plural distributive singular first plural
+Nn-pu---s2	Noun common plural distributive singular second
+Nn-pu---s2s	Noun common plural distributive singular second singular
+Nn-pu---s2p	Noun common plural distributive singular second plural
+Nn-pu---s3	Noun common plural distributive singular third
+Nn-pu---s3s	Noun common plural distributive singular third singular
+Nn-pu---s3p	Noun common plural distributive singular third plural
+Nn-pu---p1	Noun common plural distributive plural first
+Nn-pu---p1s	Noun common plural distributive plural first singular
+Nn-pu---p1p	Noun common plural distributive plural first plural
+Nn-pu---p2	Noun common plural distributive plural second
+Nn-pu---p2s	Noun common plural distributive plural second singular
+Nn-pu---p2p	Noun common plural distributive plural second plural
+Nn-pu---p3	Noun common plural distributive plural third
+Nn-pu---p3s	Noun common plural distributive plural third singular
+Nn-pu---p3p	Noun common plural distributive plural third plural
+Nn-pf	Noun common plural essive-formal
+Nn-pf-----s	Noun common plural essive-formal singular
+Nn-pf-----p	Noun common plural essive-formal plural
+Nn-pf---s1	Noun common plural essive-formal singular first
+Nn-pf---s1s	Noun common plural essive-formal singular first singular
+Nn-pf---s1p	Noun common plural essive-formal singular first plural
+Nn-pf---s2	Noun common plural essive-formal singular second
+Nn-pf---s2s	Noun common plural essive-formal singular second singular
+Nn-pf---s2p	Noun common plural essive-formal singular second plural
+Nn-pf---s3	Noun common plural essive-formal singular third
+Nn-pf---s3s	Noun common plural essive-formal singular third singular
+Nn-pf---s3p	Noun common plural essive-formal singular third plural
+Nn-pf---p1	Noun common plural essive-formal plural first
+Nn-pf---p1s	Noun common plural essive-formal plural first singular
+Nn-pf---p1p	Noun common plural essive-formal plural first plural
+Nn-pf---p2	Noun common plural essive-formal plural second
+Nn-pf---p2s	Noun common plural essive-formal plural second singular
+Nn-pf---p2p	Noun common plural essive-formal plural second plural
+Nn-pf---p3	Noun common plural essive-formal plural third
+Nn-pf---p3s	Noun common plural essive-formal plural third singular
+Nn-pf---p3p	Noun common plural essive-formal plural third plural
 Np-sn	Noun proper singular nominative
 Np-sn-----s	Noun proper singular nominative singular
 Np-sn-----p	Noun proper singular nominative plural
@@ -9321,14 +9321,14 @@ Rv	Adverb verbal
 Rm	Adverb modifier
 Rq-y	Adverb interrogative +Clitic
 St	Adposition postposition
-Ccsp	Conjunction coordinating simple sentence
-Ccsw	Conjunction coordinating simple words
-Cccp	Conjunction coordinating compound sentence
-Cccw	Conjunction coordinating compound words
-Cssp	Conjunction subordinating simple sentence
-Cssw	Conjunction subordinating simple words
-Cscp	Conjunction subordinating compound sentence
-Cscw	Conjunction subordinating compound words
+Ccsp	ConjuNntion coordinating simple senteNne
+Ccsw	ConjuNntion coordinating simple words
+Cccp	ConjuNntion coordinating compound senteNne
+Cccw	ConjuNntion coordinating compound words
+Cssp	ConjuNntion subordinating simple senteNne
+Cssw	ConjuNntion subordinating simple words
+Cscp	ConjuNntion subordinating compound senteNne
+Cscw	ConjuNntion subordinating compound words
 Mc-snd	Numeral cardinal singular nominative digit
 Mc-snd------s	Numeral cardinal singular nominative digit singular
 Mc-snd------p	Numeral cardinal singular nominative digit plural
